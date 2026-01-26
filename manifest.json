@@ -1,0 +1,567 @@
+{
+  "sitemap": {
+    "fileOptions": {
+      "api/*": {
+        "baseUrl": "https://adrenak.github.io/univoice/",
+        "changefreq": "daily"
+      }
+    },
+    "baseUrl": "https://adrenak.github.io/univoice/",
+    "changefreq": "weekly"
+  },
+  "homepages": [],
+  "source_base_path": "D:/a/univoice/univoice/Documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.AudioFrame.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.AudioFrame.html",
+          "hash": "MyFLo55gFYGRP1Xu4Q7djOEfBZpKcMDWkCGa3Tf5yas="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.ClientSession-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.ClientSession-1.html",
+          "hash": "zOH6f+3oJCxqQrQ85q1EZpEaQdepUqLZBPDUQhuDZCI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.EmptyAudioInput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.EmptyAudioInput.html",
+          "hash": "rFnta63OFKrSTKvUzEe/KBlgFyTRblILKB8WY75bhoc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.Filters.ConcentusDecodeFilter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.Filters.ConcentusDecodeFilter.html",
+          "hash": "yBUsuwqkVY/9qHVTMbAmUySioG87HGCBmJBvqxdNfMw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.Filters.ConcentusEncodeFilter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.Filters.ConcentusEncodeFilter.html",
+          "hash": "hLLS4W+ZzkanpNDTydaRYWt1r8rpJPz3+kGj1737+g4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.Filters.ConcentusFrequencies.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.Filters.ConcentusFrequencies.html",
+          "hash": "Ei2oYGt69uidWRLkJh670UNdKa2sAOZq6WMr9Avy/pM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.Filters.GaussianAudioBlur.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.Filters.GaussianAudioBlur.html",
+          "hash": "MJ0teJ4ndwAQ56cwqEo8+tO4GDrGUY+8jnRU7EOwt3o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.Filters.SimpleVadFilter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.Filters.SimpleVadFilter.html",
+          "hash": "Qb4GVLWh1DzoAQF8lbdWoUO3cQPHj3ln6kCRHisPGs4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.Filters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.Filters.html",
+          "hash": "UbadotmuC6PpizVuJsoYFtXF3vamtPTMaRaNFaB6L1g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.IAudioClient-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.IAudioClient-1.html",
+          "hash": "hEA6aucZpmm9IHNqDq7QjpphdUobumIaNAbz08I0KMg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.IAudioFilter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.IAudioFilter.html",
+          "hash": "7nzq4T2Yc4DDPmtgg4FwBAPhvqFlnoqLByZFG+E5JVQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.IAudioInput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.IAudioInput.html",
+          "hash": "O3uHRlyem10hWk8uA8VzAVGxYODy4nTlts+HGgpCHDA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.IAudioOutput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.IAudioOutput.html",
+          "hash": "XUH8KVzxdNNP2Qh3r+9GEcEnthfbp7L05sPxntgxLZY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.IAudioOutputFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.IAudioOutputFactory.html",
+          "hash": "Ju7vu6kVn0s1ltq+ksiwzA1qDn1KUAf4VmRQ21iRAU8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.IAudioServer-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.IAudioServer-1.html",
+          "hash": "+JEaZ6kJCPikHfIMUHBn5L4RXw75t2aO3/xOzPh4f54="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.Inputs.UniMicInput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.Inputs.UniMicInput.html",
+          "hash": "fxsm6SvenaH0EhlRWzLFEjoAge2gZvs8waQORxIkvd4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.Inputs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.Inputs.html",
+          "hash": "uc+LHILk1i3I02qT5XfeT84Am1SEgpl8+7fHkU9J5Ms="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.Networks.FakeNetwork.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.Networks.FakeNetwork.html",
+          "hash": "cPpj1bj40jO+h2+c+aSy/veEMhyrvu6IuagfdaMK+zo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.Networks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.Networks.html",
+          "hash": "LK/6ofwqzY+4yxDWoz9NhhP4NXrEpnJfc6R3CXoRPVw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Factory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Factory.html",
+          "hash": "U6cEUUj3Mbi98Gyt3IB2ixonsz0iH8o533Ccb7/Efs0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.html",
+          "hash": "sQQ4/1cGu9wpiwM5u/MTloomEF0zUs0ElccYFqWDIJM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.Outputs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.Outputs.html",
+          "hash": "4HNob3f3u1RGoLRLHAgTAcAPTeUaFNZ2k7b7CAE72qg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.Samples.FishnetTagsSample.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.Samples.FishnetTagsSample.html",
+          "hash": "SdVwOy9hwxT/UNZFK4swlscskZcoVRFi3FcUMAYmNwQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.Samples.MirrorTagsSample.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.Samples.MirrorTagsSample.html",
+          "hash": "saCTlgyd/FeyscmpN0p7/mHBkzdbIu1ySy2uOcy0y58="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.Samples.PeerView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.Samples.PeerView.html",
+          "hash": "s1l5PxD0nlL5cv326cok93du7p23wp/4nzJMpCfwTH0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.Samples.ToggleExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.Samples.ToggleExtension.html",
+          "hash": "elFf+9lugjdVWmMrcMzNPjlhuBGXmeifAUepNYwubpg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.Samples.UniVoiceFishNetSetupSample.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.Samples.UniVoiceFishNetSetupSample.html",
+          "hash": "C4at+Q4bV+w0gKXMVYVKFWai6vCgFNuXW+h52sW/Q1w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.Samples.UniVoiceMirrorSetupSample.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.Samples.UniVoiceMirrorSetupSample.html",
+          "hash": "5ZsR1a3K8E0ck+W15+FhOWQ1FPX9dM3/I/Jjnf5KggU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.Samples.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.Samples.html",
+          "hash": "boQp3k4qMxX9N3MFORia5B1cJU9OnL8XyErdzm+Ncik="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.SimpleVad.Config.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.SimpleVad.Config.html",
+          "hash": "2CBOPnQp+HLZ39Qe4w4pl50toL7ye94LLipak2D7I1s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.SimpleVad.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.SimpleVad.html",
+          "hash": "y4JnrV9Itzos+9wxqDQxOkPWiDKR4NyPMiav7texmjA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.Utils.Audio.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.Utils.Audio.html",
+          "hash": "qNhGYhz9e86Yj2xpWJT7cUgtHVZ1T2lXCzMY8kKcfOo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.Utils.Bytes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.Utils.Bytes.html",
+          "hash": "QqyzVVFAa1+g30GXmMls1up/A6im/x02OfuS4ITMhEI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.Utils.Network.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.Utils.Network.html",
+          "hash": "UglbstcVHZi8rC1hevw2Utc1Jnxjp1qYWpZYa11CQW8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.Utils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.Utils.html",
+          "hash": "Z2j/cuMWhqUmkAB9dbqiP9fF9rNsJ3X0l7Bc+KRUPCU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.VoiceSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.VoiceSettings.html",
+          "hash": "Aoa0Ez4tiZS4YQA20ht1DZTYcbHqXcZdq5dNhHrCAFM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.WavFileWriter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.WavFileWriter.html",
+          "hash": "OiBMUxbjn4GblXQo7nxapmWaRdRXHXi6D0uDbw8VBDY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.html",
+          "hash": "hIgPMJITbUWy5w8vUCT4HEvpgdr43+c+OdhZTqcjZ2c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "3Ru8wGqfKGnqSb++nD/mIs0hYzYsY4SySMEXgKraQns="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "V91h6uxDxe+iSQIIeCFCZGTq8RPzlwgopihU6Ngg4p0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "cBffZGYANJBfJAM3Uw0BLUCLy4qk1OS5d2seAwAo8yE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 1,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 38,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

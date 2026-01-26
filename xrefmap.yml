@@ -1,0 +1,1747 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Adrenak.UniVoice
+  name: Adrenak.UniVoice
+  href: api/Adrenak.UniVoice.html
+  commentId: N:Adrenak.UniVoice
+  fullName: Adrenak.UniVoice
+  nameWithType: Adrenak.UniVoice
+- uid: Adrenak.UniVoice.AudioFrame
+  name: AudioFrame
+  href: api/Adrenak.UniVoice.AudioFrame.html
+  commentId: T:Adrenak.UniVoice.AudioFrame
+  fullName: Adrenak.UniVoice.AudioFrame
+  nameWithType: AudioFrame
+- uid: Adrenak.UniVoice.AudioFrame.channelCount
+  name: channelCount
+  href: api/Adrenak.UniVoice.AudioFrame.html#Adrenak_UniVoice_AudioFrame_channelCount
+  commentId: F:Adrenak.UniVoice.AudioFrame.channelCount
+  fullName: Adrenak.UniVoice.AudioFrame.channelCount
+  nameWithType: AudioFrame.channelCount
+- uid: Adrenak.UniVoice.AudioFrame.frequency
+  name: frequency
+  href: api/Adrenak.UniVoice.AudioFrame.html#Adrenak_UniVoice_AudioFrame_frequency
+  commentId: F:Adrenak.UniVoice.AudioFrame.frequency
+  fullName: Adrenak.UniVoice.AudioFrame.frequency
+  nameWithType: AudioFrame.frequency
+- uid: Adrenak.UniVoice.AudioFrame.samples
+  name: samples
+  href: api/Adrenak.UniVoice.AudioFrame.html#Adrenak_UniVoice_AudioFrame_samples
+  commentId: F:Adrenak.UniVoice.AudioFrame.samples
+  fullName: Adrenak.UniVoice.AudioFrame.samples
+  nameWithType: AudioFrame.samples
+- uid: Adrenak.UniVoice.AudioFrame.timestamp
+  name: timestamp
+  href: api/Adrenak.UniVoice.AudioFrame.html#Adrenak_UniVoice_AudioFrame_timestamp
+  commentId: F:Adrenak.UniVoice.AudioFrame.timestamp
+  fullName: Adrenak.UniVoice.AudioFrame.timestamp
+  nameWithType: AudioFrame.timestamp
+- uid: Adrenak.UniVoice.ClientSession`1
+  name: ClientSession<T>
+  href: api/Adrenak.UniVoice.ClientSession-1.html
+  commentId: T:Adrenak.UniVoice.ClientSession`1
+  name.vb: ClientSession(Of T)
+  fullName: Adrenak.UniVoice.ClientSession<T>
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T)
+  nameWithType: ClientSession<T>
+  nameWithType.vb: ClientSession(Of T)
+- uid: Adrenak.UniVoice.ClientSession`1.#ctor(Adrenak.UniVoice.IAudioClient{`0},Adrenak.UniVoice.IAudioInput,Adrenak.UniVoice.IAudioOutputFactory)
+  name: ClientSession(IAudioClient<T>, IAudioInput, IAudioOutputFactory)
+  href: api/Adrenak.UniVoice.ClientSession-1.html#Adrenak_UniVoice_ClientSession_1__ctor_Adrenak_UniVoice_IAudioClient__0__Adrenak_UniVoice_IAudioInput_Adrenak_UniVoice_IAudioOutputFactory_
+  commentId: M:Adrenak.UniVoice.ClientSession`1.#ctor(Adrenak.UniVoice.IAudioClient{`0},Adrenak.UniVoice.IAudioInput,Adrenak.UniVoice.IAudioOutputFactory)
+  name.vb: ClientSession(IAudioClient(Of T), IAudioInput, IAudioOutputFactory)
+  fullName: Adrenak.UniVoice.ClientSession<T>.ClientSession(Adrenak.UniVoice.IAudioClient<T>, Adrenak.UniVoice.IAudioInput, Adrenak.UniVoice.IAudioOutputFactory)
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T).ClientSession(Adrenak.UniVoice.IAudioClient(Of T), Adrenak.UniVoice.IAudioInput, Adrenak.UniVoice.IAudioOutputFactory)
+  nameWithType: ClientSession<T>.ClientSession(IAudioClient<T>, IAudioInput, IAudioOutputFactory)
+  nameWithType.vb: ClientSession(Of T).ClientSession(IAudioClient(Of T), IAudioInput, IAudioOutputFactory)
+- uid: Adrenak.UniVoice.ClientSession`1.#ctor(Adrenak.UniVoice.IAudioClient{`0},Adrenak.UniVoice.IAudioInput,System.Func{Adrenak.UniVoice.IAudioOutput})
+  name: ClientSession(IAudioClient<T>, IAudioInput, Func<IAudioOutput>)
+  href: api/Adrenak.UniVoice.ClientSession-1.html#Adrenak_UniVoice_ClientSession_1__ctor_Adrenak_UniVoice_IAudioClient__0__Adrenak_UniVoice_IAudioInput_System_Func_Adrenak_UniVoice_IAudioOutput__
+  commentId: M:Adrenak.UniVoice.ClientSession`1.#ctor(Adrenak.UniVoice.IAudioClient{`0},Adrenak.UniVoice.IAudioInput,System.Func{Adrenak.UniVoice.IAudioOutput})
+  name.vb: ClientSession(IAudioClient(Of T), IAudioInput, Func(Of IAudioOutput))
+  fullName: Adrenak.UniVoice.ClientSession<T>.ClientSession(Adrenak.UniVoice.IAudioClient<T>, Adrenak.UniVoice.IAudioInput, System.Func<Adrenak.UniVoice.IAudioOutput>)
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T).ClientSession(Adrenak.UniVoice.IAudioClient(Of T), Adrenak.UniVoice.IAudioInput, System.Func(Of Adrenak.UniVoice.IAudioOutput))
+  nameWithType: ClientSession<T>.ClientSession(IAudioClient<T>, IAudioInput, Func<IAudioOutput>)
+  nameWithType.vb: ClientSession(Of T).ClientSession(IAudioClient(Of T), IAudioInput, Func(Of IAudioOutput))
+- uid: Adrenak.UniVoice.ClientSession`1.#ctor*
+  name: ClientSession
+  href: api/Adrenak.UniVoice.ClientSession-1.html#Adrenak_UniVoice_ClientSession_1__ctor_
+  commentId: Overload:Adrenak.UniVoice.ClientSession`1.#ctor
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.ClientSession<T>.ClientSession
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T).ClientSession
+  nameWithType: ClientSession<T>.ClientSession
+  nameWithType.vb: ClientSession(Of T).ClientSession
+- uid: Adrenak.UniVoice.ClientSession`1.AddOutputFilter*
+  name: AddOutputFilter
+  href: api/Adrenak.UniVoice.ClientSession-1.html#Adrenak_UniVoice_ClientSession_1_AddOutputFilter_
+  commentId: Overload:Adrenak.UniVoice.ClientSession`1.AddOutputFilter
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.ClientSession<T>.AddOutputFilter
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T).AddOutputFilter
+  nameWithType: ClientSession<T>.AddOutputFilter
+  nameWithType.vb: ClientSession(Of T).AddOutputFilter
+- uid: Adrenak.UniVoice.ClientSession`1.AddOutputFilter``1(System.Func{Adrenak.UniVoice.IAudioFilter})
+  name: AddOutputFilter<TFilter>(Func<IAudioFilter>)
+  href: api/Adrenak.UniVoice.ClientSession-1.html#Adrenak_UniVoice_ClientSession_1_AddOutputFilter__1_System_Func_Adrenak_UniVoice_IAudioFilter__
+  commentId: M:Adrenak.UniVoice.ClientSession`1.AddOutputFilter``1(System.Func{Adrenak.UniVoice.IAudioFilter})
+  name.vb: AddOutputFilter(Of TFilter)(Func(Of IAudioFilter))
+  fullName: Adrenak.UniVoice.ClientSession<T>.AddOutputFilter<TFilter>(System.Func<Adrenak.UniVoice.IAudioFilter>)
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T).AddOutputFilter(Of TFilter)(System.Func(Of Adrenak.UniVoice.IAudioFilter))
+  nameWithType: ClientSession<T>.AddOutputFilter<TFilter>(Func<IAudioFilter>)
+  nameWithType.vb: ClientSession(Of T).AddOutputFilter(Of TFilter)(Func(Of IAudioFilter))
+- uid: Adrenak.UniVoice.ClientSession`1.Client
+  name: Client
+  href: api/Adrenak.UniVoice.ClientSession-1.html#Adrenak_UniVoice_ClientSession_1_Client
+  commentId: P:Adrenak.UniVoice.ClientSession`1.Client
+  fullName: Adrenak.UniVoice.ClientSession<T>.Client
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T).Client
+  nameWithType: ClientSession<T>.Client
+  nameWithType.vb: ClientSession(Of T).Client
+- uid: Adrenak.UniVoice.ClientSession`1.Client*
+  name: Client
+  href: api/Adrenak.UniVoice.ClientSession-1.html#Adrenak_UniVoice_ClientSession_1_Client_
+  commentId: Overload:Adrenak.UniVoice.ClientSession`1.Client
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.ClientSession<T>.Client
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T).Client
+  nameWithType: ClientSession<T>.Client
+  nameWithType.vb: ClientSession(Of T).Client
+- uid: Adrenak.UniVoice.ClientSession`1.Dispose
+  name: Dispose()
+  href: api/Adrenak.UniVoice.ClientSession-1.html#Adrenak_UniVoice_ClientSession_1_Dispose
+  commentId: M:Adrenak.UniVoice.ClientSession`1.Dispose
+  fullName: Adrenak.UniVoice.ClientSession<T>.Dispose()
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T).Dispose()
+  nameWithType: ClientSession<T>.Dispose()
+  nameWithType.vb: ClientSession(Of T).Dispose()
+- uid: Adrenak.UniVoice.ClientSession`1.Dispose*
+  name: Dispose
+  href: api/Adrenak.UniVoice.ClientSession-1.html#Adrenak_UniVoice_ClientSession_1_Dispose_
+  commentId: Overload:Adrenak.UniVoice.ClientSession`1.Dispose
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.ClientSession<T>.Dispose
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T).Dispose
+  nameWithType: ClientSession<T>.Dispose
+  nameWithType.vb: ClientSession(Of T).Dispose
+- uid: Adrenak.UniVoice.ClientSession`1.HasInputFilter*
+  name: HasInputFilter
+  href: api/Adrenak.UniVoice.ClientSession-1.html#Adrenak_UniVoice_ClientSession_1_HasInputFilter_
+  commentId: Overload:Adrenak.UniVoice.ClientSession`1.HasInputFilter
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.ClientSession<T>.HasInputFilter
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T).HasInputFilter
+  nameWithType: ClientSession<T>.HasInputFilter
+  nameWithType.vb: ClientSession(Of T).HasInputFilter
+- uid: Adrenak.UniVoice.ClientSession`1.HasInputFilter``1
+  name: HasInputFilter<TFilter>()
+  href: api/Adrenak.UniVoice.ClientSession-1.html#Adrenak_UniVoice_ClientSession_1_HasInputFilter__1
+  commentId: M:Adrenak.UniVoice.ClientSession`1.HasInputFilter``1
+  name.vb: HasInputFilter(Of TFilter)()
+  fullName: Adrenak.UniVoice.ClientSession<T>.HasInputFilter<TFilter>()
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T).HasInputFilter(Of TFilter)()
+  nameWithType: ClientSession<T>.HasInputFilter<TFilter>()
+  nameWithType.vb: ClientSession(Of T).HasInputFilter(Of TFilter)()
+- uid: Adrenak.UniVoice.ClientSession`1.HasOutputFilter*
+  name: HasOutputFilter
+  href: api/Adrenak.UniVoice.ClientSession-1.html#Adrenak_UniVoice_ClientSession_1_HasOutputFilter_
+  commentId: Overload:Adrenak.UniVoice.ClientSession`1.HasOutputFilter
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.ClientSession<T>.HasOutputFilter
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T).HasOutputFilter
+  nameWithType: ClientSession<T>.HasOutputFilter
+  nameWithType.vb: ClientSession(Of T).HasOutputFilter
+- uid: Adrenak.UniVoice.ClientSession`1.HasOutputFilter``1
+  name: HasOutputFilter<TFilter>()
+  href: api/Adrenak.UniVoice.ClientSession-1.html#Adrenak_UniVoice_ClientSession_1_HasOutputFilter__1
+  commentId: M:Adrenak.UniVoice.ClientSession`1.HasOutputFilter``1
+  name.vb: HasOutputFilter(Of TFilter)()
+  fullName: Adrenak.UniVoice.ClientSession<T>.HasOutputFilter<TFilter>()
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T).HasOutputFilter(Of TFilter)()
+  nameWithType: ClientSession<T>.HasOutputFilter<TFilter>()
+  nameWithType.vb: ClientSession(Of T).HasOutputFilter(Of TFilter)()
+- uid: Adrenak.UniVoice.ClientSession`1.Input
+  name: Input
+  href: api/Adrenak.UniVoice.ClientSession-1.html#Adrenak_UniVoice_ClientSession_1_Input
+  commentId: P:Adrenak.UniVoice.ClientSession`1.Input
+  fullName: Adrenak.UniVoice.ClientSession<T>.Input
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T).Input
+  nameWithType: ClientSession<T>.Input
+  nameWithType.vb: ClientSession(Of T).Input
+- uid: Adrenak.UniVoice.ClientSession`1.Input*
+  name: Input
+  href: api/Adrenak.UniVoice.ClientSession-1.html#Adrenak_UniVoice_ClientSession_1_Input_
+  commentId: Overload:Adrenak.UniVoice.ClientSession`1.Input
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.ClientSession<T>.Input
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T).Input
+  nameWithType: ClientSession<T>.Input
+  nameWithType.vb: ClientSession(Of T).Input
+- uid: Adrenak.UniVoice.ClientSession`1.InputEnabled
+  name: InputEnabled
+  href: api/Adrenak.UniVoice.ClientSession-1.html#Adrenak_UniVoice_ClientSession_1_InputEnabled
+  commentId: P:Adrenak.UniVoice.ClientSession`1.InputEnabled
+  fullName: Adrenak.UniVoice.ClientSession<T>.InputEnabled
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T).InputEnabled
+  nameWithType: ClientSession<T>.InputEnabled
+  nameWithType.vb: ClientSession(Of T).InputEnabled
+- uid: Adrenak.UniVoice.ClientSession`1.InputEnabled*
+  name: InputEnabled
+  href: api/Adrenak.UniVoice.ClientSession-1.html#Adrenak_UniVoice_ClientSession_1_InputEnabled_
+  commentId: Overload:Adrenak.UniVoice.ClientSession`1.InputEnabled
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.ClientSession<T>.InputEnabled
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T).InputEnabled
+  nameWithType: ClientSession<T>.InputEnabled
+  nameWithType.vb: ClientSession(Of T).InputEnabled
+- uid: Adrenak.UniVoice.ClientSession`1.InputFilters
+  name: InputFilters
+  href: api/Adrenak.UniVoice.ClientSession-1.html#Adrenak_UniVoice_ClientSession_1_InputFilters
+  commentId: P:Adrenak.UniVoice.ClientSession`1.InputFilters
+  fullName: Adrenak.UniVoice.ClientSession<T>.InputFilters
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T).InputFilters
+  nameWithType: ClientSession<T>.InputFilters
+  nameWithType.vb: ClientSession(Of T).InputFilters
+- uid: Adrenak.UniVoice.ClientSession`1.InputFilters*
+  name: InputFilters
+  href: api/Adrenak.UniVoice.ClientSession-1.html#Adrenak_UniVoice_ClientSession_1_InputFilters_
+  commentId: Overload:Adrenak.UniVoice.ClientSession`1.InputFilters
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.ClientSession<T>.InputFilters
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T).InputFilters
+  nameWithType: ClientSession<T>.InputFilters
+  nameWithType.vb: ClientSession(Of T).InputFilters
+- uid: Adrenak.UniVoice.ClientSession`1.OutputFactory
+  name: OutputFactory
+  href: api/Adrenak.UniVoice.ClientSession-1.html#Adrenak_UniVoice_ClientSession_1_OutputFactory
+  commentId: P:Adrenak.UniVoice.ClientSession`1.OutputFactory
+  fullName: Adrenak.UniVoice.ClientSession<T>.OutputFactory
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T).OutputFactory
+  nameWithType: ClientSession<T>.OutputFactory
+  nameWithType.vb: ClientSession(Of T).OutputFactory
+- uid: Adrenak.UniVoice.ClientSession`1.OutputFactory*
+  name: OutputFactory
+  href: api/Adrenak.UniVoice.ClientSession-1.html#Adrenak_UniVoice_ClientSession_1_OutputFactory_
+  commentId: Overload:Adrenak.UniVoice.ClientSession`1.OutputFactory
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.ClientSession<T>.OutputFactory
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T).OutputFactory
+  nameWithType: ClientSession<T>.OutputFactory
+  nameWithType.vb: ClientSession(Of T).OutputFactory
+- uid: Adrenak.UniVoice.ClientSession`1.OutputFilters
+  name: OutputFilters
+  href: api/Adrenak.UniVoice.ClientSession-1.html#Adrenak_UniVoice_ClientSession_1_OutputFilters
+  commentId: P:Adrenak.UniVoice.ClientSession`1.OutputFilters
+  fullName: Adrenak.UniVoice.ClientSession<T>.OutputFilters
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T).OutputFilters
+  nameWithType: ClientSession<T>.OutputFilters
+  nameWithType.vb: ClientSession(Of T).OutputFilters
+- uid: Adrenak.UniVoice.ClientSession`1.OutputFilters*
+  name: OutputFilters
+  href: api/Adrenak.UniVoice.ClientSession-1.html#Adrenak_UniVoice_ClientSession_1_OutputFilters_
+  commentId: Overload:Adrenak.UniVoice.ClientSession`1.OutputFilters
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.ClientSession<T>.OutputFilters
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T).OutputFilters
+  nameWithType: ClientSession<T>.OutputFilters
+  nameWithType.vb: ClientSession(Of T).OutputFilters
+- uid: Adrenak.UniVoice.ClientSession`1.OutputProvider
+  name: OutputProvider
+  href: api/Adrenak.UniVoice.ClientSession-1.html#Adrenak_UniVoice_ClientSession_1_OutputProvider
+  commentId: P:Adrenak.UniVoice.ClientSession`1.OutputProvider
+  fullName: Adrenak.UniVoice.ClientSession<T>.OutputProvider
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T).OutputProvider
+  nameWithType: ClientSession<T>.OutputProvider
+  nameWithType.vb: ClientSession(Of T).OutputProvider
+- uid: Adrenak.UniVoice.ClientSession`1.OutputProvider*
+  name: OutputProvider
+  href: api/Adrenak.UniVoice.ClientSession-1.html#Adrenak_UniVoice_ClientSession_1_OutputProvider_
+  commentId: Overload:Adrenak.UniVoice.ClientSession`1.OutputProvider
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.ClientSession<T>.OutputProvider
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T).OutputProvider
+  nameWithType: ClientSession<T>.OutputProvider
+  nameWithType.vb: ClientSession(Of T).OutputProvider
+- uid: Adrenak.UniVoice.ClientSession`1.OutputsEnabled
+  name: OutputsEnabled
+  href: api/Adrenak.UniVoice.ClientSession-1.html#Adrenak_UniVoice_ClientSession_1_OutputsEnabled
+  commentId: P:Adrenak.UniVoice.ClientSession`1.OutputsEnabled
+  fullName: Adrenak.UniVoice.ClientSession<T>.OutputsEnabled
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T).OutputsEnabled
+  nameWithType: ClientSession<T>.OutputsEnabled
+  nameWithType.vb: ClientSession(Of T).OutputsEnabled
+- uid: Adrenak.UniVoice.ClientSession`1.OutputsEnabled*
+  name: OutputsEnabled
+  href: api/Adrenak.UniVoice.ClientSession-1.html#Adrenak_UniVoice_ClientSession_1_OutputsEnabled_
+  commentId: Overload:Adrenak.UniVoice.ClientSession`1.OutputsEnabled
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.ClientSession<T>.OutputsEnabled
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T).OutputsEnabled
+  nameWithType: ClientSession<T>.OutputsEnabled
+  nameWithType.vb: ClientSession(Of T).OutputsEnabled
+- uid: Adrenak.UniVoice.ClientSession`1.PeerOutputs
+  name: PeerOutputs
+  href: api/Adrenak.UniVoice.ClientSession-1.html#Adrenak_UniVoice_ClientSession_1_PeerOutputs
+  commentId: P:Adrenak.UniVoice.ClientSession`1.PeerOutputs
+  fullName: Adrenak.UniVoice.ClientSession<T>.PeerOutputs
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T).PeerOutputs
+  nameWithType: ClientSession<T>.PeerOutputs
+  nameWithType.vb: ClientSession(Of T).PeerOutputs
+- uid: Adrenak.UniVoice.ClientSession`1.PeerOutputs*
+  name: PeerOutputs
+  href: api/Adrenak.UniVoice.ClientSession-1.html#Adrenak_UniVoice_ClientSession_1_PeerOutputs_
+  commentId: Overload:Adrenak.UniVoice.ClientSession`1.PeerOutputs
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.ClientSession<T>.PeerOutputs
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T).PeerOutputs
+  nameWithType: ClientSession<T>.PeerOutputs
+  nameWithType.vb: ClientSession(Of T).PeerOutputs
+- uid: Adrenak.UniVoice.ClientSession`1.RemoveOutputFilter*
+  name: RemoveOutputFilter
+  href: api/Adrenak.UniVoice.ClientSession-1.html#Adrenak_UniVoice_ClientSession_1_RemoveOutputFilter_
+  commentId: Overload:Adrenak.UniVoice.ClientSession`1.RemoveOutputFilter
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.ClientSession<T>.RemoveOutputFilter
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T).RemoveOutputFilter
+  nameWithType: ClientSession<T>.RemoveOutputFilter
+  nameWithType.vb: ClientSession(Of T).RemoveOutputFilter
+- uid: Adrenak.UniVoice.ClientSession`1.RemoveOutputFilter``1
+  name: RemoveOutputFilter<TFilter>()
+  href: api/Adrenak.UniVoice.ClientSession-1.html#Adrenak_UniVoice_ClientSession_1_RemoveOutputFilter__1
+  commentId: M:Adrenak.UniVoice.ClientSession`1.RemoveOutputFilter``1
+  name.vb: RemoveOutputFilter(Of TFilter)()
+  fullName: Adrenak.UniVoice.ClientSession<T>.RemoveOutputFilter<TFilter>()
+  fullName.vb: Adrenak.UniVoice.ClientSession(Of T).RemoveOutputFilter(Of TFilter)()
+  nameWithType: ClientSession<T>.RemoveOutputFilter<TFilter>()
+  nameWithType.vb: ClientSession(Of T).RemoveOutputFilter(Of TFilter)()
+- uid: Adrenak.UniVoice.EmptyAudioInput
+  name: EmptyAudioInput
+  href: api/Adrenak.UniVoice.EmptyAudioInput.html
+  commentId: T:Adrenak.UniVoice.EmptyAudioInput
+  fullName: Adrenak.UniVoice.EmptyAudioInput
+  nameWithType: EmptyAudioInput
+- uid: Adrenak.UniVoice.EmptyAudioInput.ChannelCount
+  name: ChannelCount
+  href: api/Adrenak.UniVoice.EmptyAudioInput.html#Adrenak_UniVoice_EmptyAudioInput_ChannelCount
+  commentId: P:Adrenak.UniVoice.EmptyAudioInput.ChannelCount
+  fullName: Adrenak.UniVoice.EmptyAudioInput.ChannelCount
+  nameWithType: EmptyAudioInput.ChannelCount
+- uid: Adrenak.UniVoice.EmptyAudioInput.ChannelCount*
+  name: ChannelCount
+  href: api/Adrenak.UniVoice.EmptyAudioInput.html#Adrenak_UniVoice_EmptyAudioInput_ChannelCount_
+  commentId: Overload:Adrenak.UniVoice.EmptyAudioInput.ChannelCount
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.EmptyAudioInput.ChannelCount
+  nameWithType: EmptyAudioInput.ChannelCount
+- uid: Adrenak.UniVoice.EmptyAudioInput.Dispose
+  name: Dispose()
+  href: api/Adrenak.UniVoice.EmptyAudioInput.html#Adrenak_UniVoice_EmptyAudioInput_Dispose
+  commentId: M:Adrenak.UniVoice.EmptyAudioInput.Dispose
+  fullName: Adrenak.UniVoice.EmptyAudioInput.Dispose()
+  nameWithType: EmptyAudioInput.Dispose()
+- uid: Adrenak.UniVoice.EmptyAudioInput.Dispose*
+  name: Dispose
+  href: api/Adrenak.UniVoice.EmptyAudioInput.html#Adrenak_UniVoice_EmptyAudioInput_Dispose_
+  commentId: Overload:Adrenak.UniVoice.EmptyAudioInput.Dispose
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.EmptyAudioInput.Dispose
+  nameWithType: EmptyAudioInput.Dispose
+- uid: Adrenak.UniVoice.EmptyAudioInput.Frequency
+  name: Frequency
+  href: api/Adrenak.UniVoice.EmptyAudioInput.html#Adrenak_UniVoice_EmptyAudioInput_Frequency
+  commentId: P:Adrenak.UniVoice.EmptyAudioInput.Frequency
+  fullName: Adrenak.UniVoice.EmptyAudioInput.Frequency
+  nameWithType: EmptyAudioInput.Frequency
+- uid: Adrenak.UniVoice.EmptyAudioInput.Frequency*
+  name: Frequency
+  href: api/Adrenak.UniVoice.EmptyAudioInput.html#Adrenak_UniVoice_EmptyAudioInput_Frequency_
+  commentId: Overload:Adrenak.UniVoice.EmptyAudioInput.Frequency
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.EmptyAudioInput.Frequency
+  nameWithType: EmptyAudioInput.Frequency
+- uid: Adrenak.UniVoice.EmptyAudioInput.OnFrameReady
+  name: OnFrameReady
+  href: api/Adrenak.UniVoice.EmptyAudioInput.html#Adrenak_UniVoice_EmptyAudioInput_OnFrameReady
+  commentId: E:Adrenak.UniVoice.EmptyAudioInput.OnFrameReady
+  fullName: Adrenak.UniVoice.EmptyAudioInput.OnFrameReady
+  nameWithType: EmptyAudioInput.OnFrameReady
+- uid: Adrenak.UniVoice.EmptyAudioInput.SegmentRate
+  name: SegmentRate
+  href: api/Adrenak.UniVoice.EmptyAudioInput.html#Adrenak_UniVoice_EmptyAudioInput_SegmentRate
+  commentId: P:Adrenak.UniVoice.EmptyAudioInput.SegmentRate
+  fullName: Adrenak.UniVoice.EmptyAudioInput.SegmentRate
+  nameWithType: EmptyAudioInput.SegmentRate
+- uid: Adrenak.UniVoice.EmptyAudioInput.SegmentRate*
+  name: SegmentRate
+  href: api/Adrenak.UniVoice.EmptyAudioInput.html#Adrenak_UniVoice_EmptyAudioInput_SegmentRate_
+  commentId: Overload:Adrenak.UniVoice.EmptyAudioInput.SegmentRate
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.EmptyAudioInput.SegmentRate
+  nameWithType: EmptyAudioInput.SegmentRate
+- uid: Adrenak.UniVoice.Filters
+  name: Adrenak.UniVoice.Filters
+  href: api/Adrenak.UniVoice.Filters.html
+  commentId: N:Adrenak.UniVoice.Filters
+  fullName: Adrenak.UniVoice.Filters
+  nameWithType: Adrenak.UniVoice.Filters
+- uid: Adrenak.UniVoice.Filters.ConcentusDecodeFilter
+  name: ConcentusDecodeFilter
+  href: api/Adrenak.UniVoice.Filters.ConcentusDecodeFilter.html
+  commentId: T:Adrenak.UniVoice.Filters.ConcentusDecodeFilter
+  fullName: Adrenak.UniVoice.Filters.ConcentusDecodeFilter
+  nameWithType: ConcentusDecodeFilter
+- uid: Adrenak.UniVoice.Filters.ConcentusDecodeFilter.#ctor(System.Int32)
+  name: ConcentusDecodeFilter(Int32)
+  href: api/Adrenak.UniVoice.Filters.ConcentusDecodeFilter.html#Adrenak_UniVoice_Filters_ConcentusDecodeFilter__ctor_System_Int32_
+  commentId: M:Adrenak.UniVoice.Filters.ConcentusDecodeFilter.#ctor(System.Int32)
+  fullName: Adrenak.UniVoice.Filters.ConcentusDecodeFilter.ConcentusDecodeFilter(System.Int32)
+  nameWithType: ConcentusDecodeFilter.ConcentusDecodeFilter(Int32)
+- uid: Adrenak.UniVoice.Filters.ConcentusDecodeFilter.#ctor*
+  name: ConcentusDecodeFilter
+  href: api/Adrenak.UniVoice.Filters.ConcentusDecodeFilter.html#Adrenak_UniVoice_Filters_ConcentusDecodeFilter__ctor_
+  commentId: Overload:Adrenak.UniVoice.Filters.ConcentusDecodeFilter.#ctor
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Filters.ConcentusDecodeFilter.ConcentusDecodeFilter
+  nameWithType: ConcentusDecodeFilter.ConcentusDecodeFilter
+- uid: Adrenak.UniVoice.Filters.ConcentusDecodeFilter.Run(Adrenak.UniVoice.AudioFrame)
+  name: Run(AudioFrame)
+  href: api/Adrenak.UniVoice.Filters.ConcentusDecodeFilter.html#Adrenak_UniVoice_Filters_ConcentusDecodeFilter_Run_Adrenak_UniVoice_AudioFrame_
+  commentId: M:Adrenak.UniVoice.Filters.ConcentusDecodeFilter.Run(Adrenak.UniVoice.AudioFrame)
+  fullName: Adrenak.UniVoice.Filters.ConcentusDecodeFilter.Run(Adrenak.UniVoice.AudioFrame)
+  nameWithType: ConcentusDecodeFilter.Run(AudioFrame)
+- uid: Adrenak.UniVoice.Filters.ConcentusDecodeFilter.Run*
+  name: Run
+  href: api/Adrenak.UniVoice.Filters.ConcentusDecodeFilter.html#Adrenak_UniVoice_Filters_ConcentusDecodeFilter_Run_
+  commentId: Overload:Adrenak.UniVoice.Filters.ConcentusDecodeFilter.Run
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Filters.ConcentusDecodeFilter.Run
+  nameWithType: ConcentusDecodeFilter.Run
+- uid: Adrenak.UniVoice.Filters.ConcentusEncodeFilter
+  name: ConcentusEncodeFilter
+  href: api/Adrenak.UniVoice.Filters.ConcentusEncodeFilter.html
+  commentId: T:Adrenak.UniVoice.Filters.ConcentusEncodeFilter
+  fullName: Adrenak.UniVoice.Filters.ConcentusEncodeFilter
+  nameWithType: ConcentusEncodeFilter
+- uid: Adrenak.UniVoice.Filters.ConcentusEncodeFilter.#ctor(Adrenak.UniVoice.Filters.ConcentusFrequencies,System.Int32,System.Int32,System.Int32,System.Int32)
+  name: ConcentusEncodeFilter(ConcentusFrequencies, Int32, Int32, Int32, Int32)
+  href: api/Adrenak.UniVoice.Filters.ConcentusEncodeFilter.html#Adrenak_UniVoice_Filters_ConcentusEncodeFilter__ctor_Adrenak_UniVoice_Filters_ConcentusFrequencies_System_Int32_System_Int32_System_Int32_System_Int32_
+  commentId: M:Adrenak.UniVoice.Filters.ConcentusEncodeFilter.#ctor(Adrenak.UniVoice.Filters.ConcentusFrequencies,System.Int32,System.Int32,System.Int32,System.Int32)
+  fullName: Adrenak.UniVoice.Filters.ConcentusEncodeFilter.ConcentusEncodeFilter(Adrenak.UniVoice.Filters.ConcentusFrequencies, System.Int32, System.Int32, System.Int32, System.Int32)
+  nameWithType: ConcentusEncodeFilter.ConcentusEncodeFilter(ConcentusFrequencies, Int32, Int32, Int32, Int32)
+- uid: Adrenak.UniVoice.Filters.ConcentusEncodeFilter.#ctor*
+  name: ConcentusEncodeFilter
+  href: api/Adrenak.UniVoice.Filters.ConcentusEncodeFilter.html#Adrenak_UniVoice_Filters_ConcentusEncodeFilter__ctor_
+  commentId: Overload:Adrenak.UniVoice.Filters.ConcentusEncodeFilter.#ctor
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Filters.ConcentusEncodeFilter.ConcentusEncodeFilter
+  nameWithType: ConcentusEncodeFilter.ConcentusEncodeFilter
+- uid: Adrenak.UniVoice.Filters.ConcentusEncodeFilter.Run(Adrenak.UniVoice.AudioFrame)
+  name: Run(AudioFrame)
+  href: api/Adrenak.UniVoice.Filters.ConcentusEncodeFilter.html#Adrenak_UniVoice_Filters_ConcentusEncodeFilter_Run_Adrenak_UniVoice_AudioFrame_
+  commentId: M:Adrenak.UniVoice.Filters.ConcentusEncodeFilter.Run(Adrenak.UniVoice.AudioFrame)
+  fullName: Adrenak.UniVoice.Filters.ConcentusEncodeFilter.Run(Adrenak.UniVoice.AudioFrame)
+  nameWithType: ConcentusEncodeFilter.Run(AudioFrame)
+- uid: Adrenak.UniVoice.Filters.ConcentusEncodeFilter.Run*
+  name: Run
+  href: api/Adrenak.UniVoice.Filters.ConcentusEncodeFilter.html#Adrenak_UniVoice_Filters_ConcentusEncodeFilter_Run_
+  commentId: Overload:Adrenak.UniVoice.Filters.ConcentusEncodeFilter.Run
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Filters.ConcentusEncodeFilter.Run
+  nameWithType: ConcentusEncodeFilter.Run
+- uid: Adrenak.UniVoice.Filters.ConcentusEncodeFilter.SamplingFrequency
+  name: SamplingFrequency
+  href: api/Adrenak.UniVoice.Filters.ConcentusEncodeFilter.html#Adrenak_UniVoice_Filters_ConcentusEncodeFilter_SamplingFrequency
+  commentId: P:Adrenak.UniVoice.Filters.ConcentusEncodeFilter.SamplingFrequency
+  fullName: Adrenak.UniVoice.Filters.ConcentusEncodeFilter.SamplingFrequency
+  nameWithType: ConcentusEncodeFilter.SamplingFrequency
+- uid: Adrenak.UniVoice.Filters.ConcentusEncodeFilter.SamplingFrequency*
+  name: SamplingFrequency
+  href: api/Adrenak.UniVoice.Filters.ConcentusEncodeFilter.html#Adrenak_UniVoice_Filters_ConcentusEncodeFilter_SamplingFrequency_
+  commentId: Overload:Adrenak.UniVoice.Filters.ConcentusEncodeFilter.SamplingFrequency
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Filters.ConcentusEncodeFilter.SamplingFrequency
+  nameWithType: ConcentusEncodeFilter.SamplingFrequency
+- uid: Adrenak.UniVoice.Filters.ConcentusFrequencies
+  name: ConcentusFrequencies
+  href: api/Adrenak.UniVoice.Filters.ConcentusFrequencies.html
+  commentId: T:Adrenak.UniVoice.Filters.ConcentusFrequencies
+  fullName: Adrenak.UniVoice.Filters.ConcentusFrequencies
+  nameWithType: ConcentusFrequencies
+- uid: Adrenak.UniVoice.Filters.ConcentusFrequencies.Frequency_12000
+  name: Frequency_12000
+  href: api/Adrenak.UniVoice.Filters.ConcentusFrequencies.html#Adrenak_UniVoice_Filters_ConcentusFrequencies_Frequency_12000
+  commentId: F:Adrenak.UniVoice.Filters.ConcentusFrequencies.Frequency_12000
+  fullName: Adrenak.UniVoice.Filters.ConcentusFrequencies.Frequency_12000
+  nameWithType: ConcentusFrequencies.Frequency_12000
+- uid: Adrenak.UniVoice.Filters.ConcentusFrequencies.Frequency_16000
+  name: Frequency_16000
+  href: api/Adrenak.UniVoice.Filters.ConcentusFrequencies.html#Adrenak_UniVoice_Filters_ConcentusFrequencies_Frequency_16000
+  commentId: F:Adrenak.UniVoice.Filters.ConcentusFrequencies.Frequency_16000
+  fullName: Adrenak.UniVoice.Filters.ConcentusFrequencies.Frequency_16000
+  nameWithType: ConcentusFrequencies.Frequency_16000
+- uid: Adrenak.UniVoice.Filters.ConcentusFrequencies.Frequency_24000
+  name: Frequency_24000
+  href: api/Adrenak.UniVoice.Filters.ConcentusFrequencies.html#Adrenak_UniVoice_Filters_ConcentusFrequencies_Frequency_24000
+  commentId: F:Adrenak.UniVoice.Filters.ConcentusFrequencies.Frequency_24000
+  fullName: Adrenak.UniVoice.Filters.ConcentusFrequencies.Frequency_24000
+  nameWithType: ConcentusFrequencies.Frequency_24000
+- uid: Adrenak.UniVoice.Filters.ConcentusFrequencies.Frequency_48000
+  name: Frequency_48000
+  href: api/Adrenak.UniVoice.Filters.ConcentusFrequencies.html#Adrenak_UniVoice_Filters_ConcentusFrequencies_Frequency_48000
+  commentId: F:Adrenak.UniVoice.Filters.ConcentusFrequencies.Frequency_48000
+  fullName: Adrenak.UniVoice.Filters.ConcentusFrequencies.Frequency_48000
+  nameWithType: ConcentusFrequencies.Frequency_48000
+- uid: Adrenak.UniVoice.Filters.ConcentusFrequencies.Frequency_8000
+  name: Frequency_8000
+  href: api/Adrenak.UniVoice.Filters.ConcentusFrequencies.html#Adrenak_UniVoice_Filters_ConcentusFrequencies_Frequency_8000
+  commentId: F:Adrenak.UniVoice.Filters.ConcentusFrequencies.Frequency_8000
+  fullName: Adrenak.UniVoice.Filters.ConcentusFrequencies.Frequency_8000
+  nameWithType: ConcentusFrequencies.Frequency_8000
+- uid: Adrenak.UniVoice.Filters.GaussianAudioBlur
+  name: GaussianAudioBlur
+  href: api/Adrenak.UniVoice.Filters.GaussianAudioBlur.html
+  commentId: T:Adrenak.UniVoice.Filters.GaussianAudioBlur
+  fullName: Adrenak.UniVoice.Filters.GaussianAudioBlur
+  nameWithType: GaussianAudioBlur
+- uid: Adrenak.UniVoice.Filters.GaussianAudioBlur.#ctor(System.Single,System.Int32)
+  name: GaussianAudioBlur(Single, Int32)
+  href: api/Adrenak.UniVoice.Filters.GaussianAudioBlur.html#Adrenak_UniVoice_Filters_GaussianAudioBlur__ctor_System_Single_System_Int32_
+  commentId: M:Adrenak.UniVoice.Filters.GaussianAudioBlur.#ctor(System.Single,System.Int32)
+  fullName: Adrenak.UniVoice.Filters.GaussianAudioBlur.GaussianAudioBlur(System.Single, System.Int32)
+  nameWithType: GaussianAudioBlur.GaussianAudioBlur(Single, Int32)
+- uid: Adrenak.UniVoice.Filters.GaussianAudioBlur.#ctor*
+  name: GaussianAudioBlur
+  href: api/Adrenak.UniVoice.Filters.GaussianAudioBlur.html#Adrenak_UniVoice_Filters_GaussianAudioBlur__ctor_
+  commentId: Overload:Adrenak.UniVoice.Filters.GaussianAudioBlur.#ctor
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Filters.GaussianAudioBlur.GaussianAudioBlur
+  nameWithType: GaussianAudioBlur.GaussianAudioBlur
+- uid: Adrenak.UniVoice.Filters.GaussianAudioBlur.Run(Adrenak.UniVoice.AudioFrame)
+  name: Run(AudioFrame)
+  href: api/Adrenak.UniVoice.Filters.GaussianAudioBlur.html#Adrenak_UniVoice_Filters_GaussianAudioBlur_Run_Adrenak_UniVoice_AudioFrame_
+  commentId: M:Adrenak.UniVoice.Filters.GaussianAudioBlur.Run(Adrenak.UniVoice.AudioFrame)
+  fullName: Adrenak.UniVoice.Filters.GaussianAudioBlur.Run(Adrenak.UniVoice.AudioFrame)
+  nameWithType: GaussianAudioBlur.Run(AudioFrame)
+- uid: Adrenak.UniVoice.Filters.GaussianAudioBlur.Run*
+  name: Run
+  href: api/Adrenak.UniVoice.Filters.GaussianAudioBlur.html#Adrenak_UniVoice_Filters_GaussianAudioBlur_Run_
+  commentId: Overload:Adrenak.UniVoice.Filters.GaussianAudioBlur.Run
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Filters.GaussianAudioBlur.Run
+  nameWithType: GaussianAudioBlur.Run
+- uid: Adrenak.UniVoice.Filters.SimpleVadFilter
+  name: SimpleVadFilter
+  href: api/Adrenak.UniVoice.Filters.SimpleVadFilter.html
+  commentId: T:Adrenak.UniVoice.Filters.SimpleVadFilter
+  fullName: Adrenak.UniVoice.Filters.SimpleVadFilter
+  nameWithType: SimpleVadFilter
+- uid: Adrenak.UniVoice.Filters.SimpleVadFilter.#ctor(Adrenak.UniVoice.SimpleVad)
+  name: SimpleVadFilter(SimpleVad)
+  href: api/Adrenak.UniVoice.Filters.SimpleVadFilter.html#Adrenak_UniVoice_Filters_SimpleVadFilter__ctor_Adrenak_UniVoice_SimpleVad_
+  commentId: M:Adrenak.UniVoice.Filters.SimpleVadFilter.#ctor(Adrenak.UniVoice.SimpleVad)
+  fullName: Adrenak.UniVoice.Filters.SimpleVadFilter.SimpleVadFilter(Adrenak.UniVoice.SimpleVad)
+  nameWithType: SimpleVadFilter.SimpleVadFilter(SimpleVad)
+- uid: Adrenak.UniVoice.Filters.SimpleVadFilter.#ctor*
+  name: SimpleVadFilter
+  href: api/Adrenak.UniVoice.Filters.SimpleVadFilter.html#Adrenak_UniVoice_Filters_SimpleVadFilter__ctor_
+  commentId: Overload:Adrenak.UniVoice.Filters.SimpleVadFilter.#ctor
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Filters.SimpleVadFilter.SimpleVadFilter
+  nameWithType: SimpleVadFilter.SimpleVadFilter
+- uid: Adrenak.UniVoice.Filters.SimpleVadFilter.Run(Adrenak.UniVoice.AudioFrame)
+  name: Run(AudioFrame)
+  href: api/Adrenak.UniVoice.Filters.SimpleVadFilter.html#Adrenak_UniVoice_Filters_SimpleVadFilter_Run_Adrenak_UniVoice_AudioFrame_
+  commentId: M:Adrenak.UniVoice.Filters.SimpleVadFilter.Run(Adrenak.UniVoice.AudioFrame)
+  fullName: Adrenak.UniVoice.Filters.SimpleVadFilter.Run(Adrenak.UniVoice.AudioFrame)
+  nameWithType: SimpleVadFilter.Run(AudioFrame)
+- uid: Adrenak.UniVoice.Filters.SimpleVadFilter.Run*
+  name: Run
+  href: api/Adrenak.UniVoice.Filters.SimpleVadFilter.html#Adrenak_UniVoice_Filters_SimpleVadFilter_Run_
+  commentId: Overload:Adrenak.UniVoice.Filters.SimpleVadFilter.Run
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Filters.SimpleVadFilter.Run
+  nameWithType: SimpleVadFilter.Run
+- uid: Adrenak.UniVoice.IAudioClient`1
+  name: IAudioClient<T>
+  href: api/Adrenak.UniVoice.IAudioClient-1.html
+  commentId: T:Adrenak.UniVoice.IAudioClient`1
+  name.vb: IAudioClient(Of T)
+  fullName: Adrenak.UniVoice.IAudioClient<T>
+  fullName.vb: Adrenak.UniVoice.IAudioClient(Of T)
+  nameWithType: IAudioClient<T>
+  nameWithType.vb: IAudioClient(Of T)
+- uid: Adrenak.UniVoice.IAudioClient`1.ID
+  name: ID
+  href: api/Adrenak.UniVoice.IAudioClient-1.html#Adrenak_UniVoice_IAudioClient_1_ID
+  commentId: P:Adrenak.UniVoice.IAudioClient`1.ID
+  fullName: Adrenak.UniVoice.IAudioClient<T>.ID
+  fullName.vb: Adrenak.UniVoice.IAudioClient(Of T).ID
+  nameWithType: IAudioClient<T>.ID
+  nameWithType.vb: IAudioClient(Of T).ID
+- uid: Adrenak.UniVoice.IAudioClient`1.ID*
+  name: ID
+  href: api/Adrenak.UniVoice.IAudioClient-1.html#Adrenak_UniVoice_IAudioClient_1_ID_
+  commentId: Overload:Adrenak.UniVoice.IAudioClient`1.ID
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.IAudioClient<T>.ID
+  fullName.vb: Adrenak.UniVoice.IAudioClient(Of T).ID
+  nameWithType: IAudioClient<T>.ID
+  nameWithType.vb: IAudioClient(Of T).ID
+- uid: Adrenak.UniVoice.IAudioClient`1.OnJoined
+  name: OnJoined
+  href: api/Adrenak.UniVoice.IAudioClient-1.html#Adrenak_UniVoice_IAudioClient_1_OnJoined
+  commentId: E:Adrenak.UniVoice.IAudioClient`1.OnJoined
+  fullName: Adrenak.UniVoice.IAudioClient<T>.OnJoined
+  fullName.vb: Adrenak.UniVoice.IAudioClient(Of T).OnJoined
+  nameWithType: IAudioClient<T>.OnJoined
+  nameWithType.vb: IAudioClient(Of T).OnJoined
+- uid: Adrenak.UniVoice.IAudioClient`1.OnLeft
+  name: OnLeft
+  href: api/Adrenak.UniVoice.IAudioClient-1.html#Adrenak_UniVoice_IAudioClient_1_OnLeft
+  commentId: E:Adrenak.UniVoice.IAudioClient`1.OnLeft
+  fullName: Adrenak.UniVoice.IAudioClient<T>.OnLeft
+  fullName.vb: Adrenak.UniVoice.IAudioClient(Of T).OnLeft
+  nameWithType: IAudioClient<T>.OnLeft
+  nameWithType.vb: IAudioClient(Of T).OnLeft
+- uid: Adrenak.UniVoice.IAudioClient`1.OnPeerJoined
+  name: OnPeerJoined
+  href: api/Adrenak.UniVoice.IAudioClient-1.html#Adrenak_UniVoice_IAudioClient_1_OnPeerJoined
+  commentId: E:Adrenak.UniVoice.IAudioClient`1.OnPeerJoined
+  fullName: Adrenak.UniVoice.IAudioClient<T>.OnPeerJoined
+  fullName.vb: Adrenak.UniVoice.IAudioClient(Of T).OnPeerJoined
+  nameWithType: IAudioClient<T>.OnPeerJoined
+  nameWithType.vb: IAudioClient(Of T).OnPeerJoined
+- uid: Adrenak.UniVoice.IAudioClient`1.OnPeerLeft
+  name: OnPeerLeft
+  href: api/Adrenak.UniVoice.IAudioClient-1.html#Adrenak_UniVoice_IAudioClient_1_OnPeerLeft
+  commentId: E:Adrenak.UniVoice.IAudioClient`1.OnPeerLeft
+  fullName: Adrenak.UniVoice.IAudioClient<T>.OnPeerLeft
+  fullName.vb: Adrenak.UniVoice.IAudioClient(Of T).OnPeerLeft
+  nameWithType: IAudioClient<T>.OnPeerLeft
+  nameWithType.vb: IAudioClient(Of T).OnPeerLeft
+- uid: Adrenak.UniVoice.IAudioClient`1.OnReceivedPeerAudioFrame
+  name: OnReceivedPeerAudioFrame
+  href: api/Adrenak.UniVoice.IAudioClient-1.html#Adrenak_UniVoice_IAudioClient_1_OnReceivedPeerAudioFrame
+  commentId: E:Adrenak.UniVoice.IAudioClient`1.OnReceivedPeerAudioFrame
+  fullName: Adrenak.UniVoice.IAudioClient<T>.OnReceivedPeerAudioFrame
+  fullName.vb: Adrenak.UniVoice.IAudioClient(Of T).OnReceivedPeerAudioFrame
+  nameWithType: IAudioClient<T>.OnReceivedPeerAudioFrame
+  nameWithType.vb: IAudioClient(Of T).OnReceivedPeerAudioFrame
+- uid: Adrenak.UniVoice.IAudioClient`1.PeerIDs
+  name: PeerIDs
+  href: api/Adrenak.UniVoice.IAudioClient-1.html#Adrenak_UniVoice_IAudioClient_1_PeerIDs
+  commentId: P:Adrenak.UniVoice.IAudioClient`1.PeerIDs
+  fullName: Adrenak.UniVoice.IAudioClient<T>.PeerIDs
+  fullName.vb: Adrenak.UniVoice.IAudioClient(Of T).PeerIDs
+  nameWithType: IAudioClient<T>.PeerIDs
+  nameWithType.vb: IAudioClient(Of T).PeerIDs
+- uid: Adrenak.UniVoice.IAudioClient`1.PeerIDs*
+  name: PeerIDs
+  href: api/Adrenak.UniVoice.IAudioClient-1.html#Adrenak_UniVoice_IAudioClient_1_PeerIDs_
+  commentId: Overload:Adrenak.UniVoice.IAudioClient`1.PeerIDs
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.IAudioClient<T>.PeerIDs
+  fullName.vb: Adrenak.UniVoice.IAudioClient(Of T).PeerIDs
+  nameWithType: IAudioClient<T>.PeerIDs
+  nameWithType.vb: IAudioClient(Of T).PeerIDs
+- uid: Adrenak.UniVoice.IAudioClient`1.SendAudioFrame(Adrenak.UniVoice.AudioFrame)
+  name: SendAudioFrame(AudioFrame)
+  href: api/Adrenak.UniVoice.IAudioClient-1.html#Adrenak_UniVoice_IAudioClient_1_SendAudioFrame_Adrenak_UniVoice_AudioFrame_
+  commentId: M:Adrenak.UniVoice.IAudioClient`1.SendAudioFrame(Adrenak.UniVoice.AudioFrame)
+  fullName: Adrenak.UniVoice.IAudioClient<T>.SendAudioFrame(Adrenak.UniVoice.AudioFrame)
+  fullName.vb: Adrenak.UniVoice.IAudioClient(Of T).SendAudioFrame(Adrenak.UniVoice.AudioFrame)
+  nameWithType: IAudioClient<T>.SendAudioFrame(AudioFrame)
+  nameWithType.vb: IAudioClient(Of T).SendAudioFrame(AudioFrame)
+- uid: Adrenak.UniVoice.IAudioClient`1.SendAudioFrame*
+  name: SendAudioFrame
+  href: api/Adrenak.UniVoice.IAudioClient-1.html#Adrenak_UniVoice_IAudioClient_1_SendAudioFrame_
+  commentId: Overload:Adrenak.UniVoice.IAudioClient`1.SendAudioFrame
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.IAudioClient<T>.SendAudioFrame
+  fullName.vb: Adrenak.UniVoice.IAudioClient(Of T).SendAudioFrame
+  nameWithType: IAudioClient<T>.SendAudioFrame
+  nameWithType.vb: IAudioClient(Of T).SendAudioFrame
+- uid: Adrenak.UniVoice.IAudioClient`1.SubmitVoiceSettings
+  name: SubmitVoiceSettings()
+  href: api/Adrenak.UniVoice.IAudioClient-1.html#Adrenak_UniVoice_IAudioClient_1_SubmitVoiceSettings
+  commentId: M:Adrenak.UniVoice.IAudioClient`1.SubmitVoiceSettings
+  fullName: Adrenak.UniVoice.IAudioClient<T>.SubmitVoiceSettings()
+  fullName.vb: Adrenak.UniVoice.IAudioClient(Of T).SubmitVoiceSettings()
+  nameWithType: IAudioClient<T>.SubmitVoiceSettings()
+  nameWithType.vb: IAudioClient(Of T).SubmitVoiceSettings()
+- uid: Adrenak.UniVoice.IAudioClient`1.SubmitVoiceSettings*
+  name: SubmitVoiceSettings
+  href: api/Adrenak.UniVoice.IAudioClient-1.html#Adrenak_UniVoice_IAudioClient_1_SubmitVoiceSettings_
+  commentId: Overload:Adrenak.UniVoice.IAudioClient`1.SubmitVoiceSettings
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.IAudioClient<T>.SubmitVoiceSettings
+  fullName.vb: Adrenak.UniVoice.IAudioClient(Of T).SubmitVoiceSettings
+  nameWithType: IAudioClient<T>.SubmitVoiceSettings
+  nameWithType.vb: IAudioClient(Of T).SubmitVoiceSettings
+- uid: Adrenak.UniVoice.IAudioClient`1.UpdateVoiceSettings(System.Action{Adrenak.UniVoice.VoiceSettings})
+  name: UpdateVoiceSettings(Action<VoiceSettings>)
+  href: api/Adrenak.UniVoice.IAudioClient-1.html#Adrenak_UniVoice_IAudioClient_1_UpdateVoiceSettings_System_Action_Adrenak_UniVoice_VoiceSettings__
+  commentId: M:Adrenak.UniVoice.IAudioClient`1.UpdateVoiceSettings(System.Action{Adrenak.UniVoice.VoiceSettings})
+  name.vb: UpdateVoiceSettings(Action(Of VoiceSettings))
+  fullName: Adrenak.UniVoice.IAudioClient<T>.UpdateVoiceSettings(System.Action<Adrenak.UniVoice.VoiceSettings>)
+  fullName.vb: Adrenak.UniVoice.IAudioClient(Of T).UpdateVoiceSettings(System.Action(Of Adrenak.UniVoice.VoiceSettings))
+  nameWithType: IAudioClient<T>.UpdateVoiceSettings(Action<VoiceSettings>)
+  nameWithType.vb: IAudioClient(Of T).UpdateVoiceSettings(Action(Of VoiceSettings))
+- uid: Adrenak.UniVoice.IAudioClient`1.UpdateVoiceSettings*
+  name: UpdateVoiceSettings
+  href: api/Adrenak.UniVoice.IAudioClient-1.html#Adrenak_UniVoice_IAudioClient_1_UpdateVoiceSettings_
+  commentId: Overload:Adrenak.UniVoice.IAudioClient`1.UpdateVoiceSettings
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.IAudioClient<T>.UpdateVoiceSettings
+  fullName.vb: Adrenak.UniVoice.IAudioClient(Of T).UpdateVoiceSettings
+  nameWithType: IAudioClient<T>.UpdateVoiceSettings
+  nameWithType.vb: IAudioClient(Of T).UpdateVoiceSettings
+- uid: Adrenak.UniVoice.IAudioClient`1.YourVoiceSettings
+  name: YourVoiceSettings
+  href: api/Adrenak.UniVoice.IAudioClient-1.html#Adrenak_UniVoice_IAudioClient_1_YourVoiceSettings
+  commentId: P:Adrenak.UniVoice.IAudioClient`1.YourVoiceSettings
+  fullName: Adrenak.UniVoice.IAudioClient<T>.YourVoiceSettings
+  fullName.vb: Adrenak.UniVoice.IAudioClient(Of T).YourVoiceSettings
+  nameWithType: IAudioClient<T>.YourVoiceSettings
+  nameWithType.vb: IAudioClient(Of T).YourVoiceSettings
+- uid: Adrenak.UniVoice.IAudioClient`1.YourVoiceSettings*
+  name: YourVoiceSettings
+  href: api/Adrenak.UniVoice.IAudioClient-1.html#Adrenak_UniVoice_IAudioClient_1_YourVoiceSettings_
+  commentId: Overload:Adrenak.UniVoice.IAudioClient`1.YourVoiceSettings
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.IAudioClient<T>.YourVoiceSettings
+  fullName.vb: Adrenak.UniVoice.IAudioClient(Of T).YourVoiceSettings
+  nameWithType: IAudioClient<T>.YourVoiceSettings
+  nameWithType.vb: IAudioClient(Of T).YourVoiceSettings
+- uid: Adrenak.UniVoice.IAudioFilter
+  name: IAudioFilter
+  href: api/Adrenak.UniVoice.IAudioFilter.html
+  commentId: T:Adrenak.UniVoice.IAudioFilter
+  fullName: Adrenak.UniVoice.IAudioFilter
+  nameWithType: IAudioFilter
+- uid: Adrenak.UniVoice.IAudioFilter.Run(Adrenak.UniVoice.AudioFrame)
+  name: Run(AudioFrame)
+  href: api/Adrenak.UniVoice.IAudioFilter.html#Adrenak_UniVoice_IAudioFilter_Run_Adrenak_UniVoice_AudioFrame_
+  commentId: M:Adrenak.UniVoice.IAudioFilter.Run(Adrenak.UniVoice.AudioFrame)
+  fullName: Adrenak.UniVoice.IAudioFilter.Run(Adrenak.UniVoice.AudioFrame)
+  nameWithType: IAudioFilter.Run(AudioFrame)
+- uid: Adrenak.UniVoice.IAudioFilter.Run*
+  name: Run
+  href: api/Adrenak.UniVoice.IAudioFilter.html#Adrenak_UniVoice_IAudioFilter_Run_
+  commentId: Overload:Adrenak.UniVoice.IAudioFilter.Run
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.IAudioFilter.Run
+  nameWithType: IAudioFilter.Run
+- uid: Adrenak.UniVoice.IAudioInput
+  name: IAudioInput
+  href: api/Adrenak.UniVoice.IAudioInput.html
+  commentId: T:Adrenak.UniVoice.IAudioInput
+  fullName: Adrenak.UniVoice.IAudioInput
+  nameWithType: IAudioInput
+- uid: Adrenak.UniVoice.IAudioInput.OnFrameReady
+  name: OnFrameReady
+  href: api/Adrenak.UniVoice.IAudioInput.html#Adrenak_UniVoice_IAudioInput_OnFrameReady
+  commentId: E:Adrenak.UniVoice.IAudioInput.OnFrameReady
+  fullName: Adrenak.UniVoice.IAudioInput.OnFrameReady
+  nameWithType: IAudioInput.OnFrameReady
+- uid: Adrenak.UniVoice.IAudioOutput
+  name: IAudioOutput
+  href: api/Adrenak.UniVoice.IAudioOutput.html
+  commentId: T:Adrenak.UniVoice.IAudioOutput
+  fullName: Adrenak.UniVoice.IAudioOutput
+  nameWithType: IAudioOutput
+- uid: Adrenak.UniVoice.IAudioOutput.Feed(Adrenak.UniVoice.AudioFrame)
+  name: Feed(AudioFrame)
+  href: api/Adrenak.UniVoice.IAudioOutput.html#Adrenak_UniVoice_IAudioOutput_Feed_Adrenak_UniVoice_AudioFrame_
+  commentId: M:Adrenak.UniVoice.IAudioOutput.Feed(Adrenak.UniVoice.AudioFrame)
+  fullName: Adrenak.UniVoice.IAudioOutput.Feed(Adrenak.UniVoice.AudioFrame)
+  nameWithType: IAudioOutput.Feed(AudioFrame)
+- uid: Adrenak.UniVoice.IAudioOutput.Feed*
+  name: Feed
+  href: api/Adrenak.UniVoice.IAudioOutput.html#Adrenak_UniVoice_IAudioOutput_Feed_
+  commentId: Overload:Adrenak.UniVoice.IAudioOutput.Feed
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.IAudioOutput.Feed
+  nameWithType: IAudioOutput.Feed
+- uid: Adrenak.UniVoice.IAudioOutputFactory
+  name: IAudioOutputFactory
+  href: api/Adrenak.UniVoice.IAudioOutputFactory.html
+  commentId: T:Adrenak.UniVoice.IAudioOutputFactory
+  fullName: Adrenak.UniVoice.IAudioOutputFactory
+  nameWithType: IAudioOutputFactory
+- uid: Adrenak.UniVoice.IAudioOutputFactory.Create
+  name: Create()
+  href: api/Adrenak.UniVoice.IAudioOutputFactory.html#Adrenak_UniVoice_IAudioOutputFactory_Create
+  commentId: M:Adrenak.UniVoice.IAudioOutputFactory.Create
+  fullName: Adrenak.UniVoice.IAudioOutputFactory.Create()
+  nameWithType: IAudioOutputFactory.Create()
+- uid: Adrenak.UniVoice.IAudioOutputFactory.Create*
+  name: Create
+  href: api/Adrenak.UniVoice.IAudioOutputFactory.html#Adrenak_UniVoice_IAudioOutputFactory_Create_
+  commentId: Overload:Adrenak.UniVoice.IAudioOutputFactory.Create
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.IAudioOutputFactory.Create
+  nameWithType: IAudioOutputFactory.Create
+- uid: Adrenak.UniVoice.IAudioServer`1
+  name: IAudioServer<T>
+  href: api/Adrenak.UniVoice.IAudioServer-1.html
+  commentId: T:Adrenak.UniVoice.IAudioServer`1
+  name.vb: IAudioServer(Of T)
+  fullName: Adrenak.UniVoice.IAudioServer<T>
+  fullName.vb: Adrenak.UniVoice.IAudioServer(Of T)
+  nameWithType: IAudioServer<T>
+  nameWithType.vb: IAudioServer(Of T)
+- uid: Adrenak.UniVoice.IAudioServer`1.ClientIDs
+  name: ClientIDs
+  href: api/Adrenak.UniVoice.IAudioServer-1.html#Adrenak_UniVoice_IAudioServer_1_ClientIDs
+  commentId: P:Adrenak.UniVoice.IAudioServer`1.ClientIDs
+  fullName: Adrenak.UniVoice.IAudioServer<T>.ClientIDs
+  fullName.vb: Adrenak.UniVoice.IAudioServer(Of T).ClientIDs
+  nameWithType: IAudioServer<T>.ClientIDs
+  nameWithType.vb: IAudioServer(Of T).ClientIDs
+- uid: Adrenak.UniVoice.IAudioServer`1.ClientIDs*
+  name: ClientIDs
+  href: api/Adrenak.UniVoice.IAudioServer-1.html#Adrenak_UniVoice_IAudioServer_1_ClientIDs_
+  commentId: Overload:Adrenak.UniVoice.IAudioServer`1.ClientIDs
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.IAudioServer<T>.ClientIDs
+  fullName.vb: Adrenak.UniVoice.IAudioServer(Of T).ClientIDs
+  nameWithType: IAudioServer<T>.ClientIDs
+  nameWithType.vb: IAudioServer(Of T).ClientIDs
+- uid: Adrenak.UniVoice.IAudioServer`1.ClientVoiceSettings
+  name: ClientVoiceSettings
+  href: api/Adrenak.UniVoice.IAudioServer-1.html#Adrenak_UniVoice_IAudioServer_1_ClientVoiceSettings
+  commentId: P:Adrenak.UniVoice.IAudioServer`1.ClientVoiceSettings
+  fullName: Adrenak.UniVoice.IAudioServer<T>.ClientVoiceSettings
+  fullName.vb: Adrenak.UniVoice.IAudioServer(Of T).ClientVoiceSettings
+  nameWithType: IAudioServer<T>.ClientVoiceSettings
+  nameWithType.vb: IAudioServer(Of T).ClientVoiceSettings
+- uid: Adrenak.UniVoice.IAudioServer`1.ClientVoiceSettings*
+  name: ClientVoiceSettings
+  href: api/Adrenak.UniVoice.IAudioServer-1.html#Adrenak_UniVoice_IAudioServer_1_ClientVoiceSettings_
+  commentId: Overload:Adrenak.UniVoice.IAudioServer`1.ClientVoiceSettings
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.IAudioServer<T>.ClientVoiceSettings
+  fullName.vb: Adrenak.UniVoice.IAudioServer(Of T).ClientVoiceSettings
+  nameWithType: IAudioServer<T>.ClientVoiceSettings
+  nameWithType.vb: IAudioServer(Of T).ClientVoiceSettings
+- uid: Adrenak.UniVoice.IAudioServer`1.OnClientVoiceSettingsUpdated
+  name: OnClientVoiceSettingsUpdated
+  href: api/Adrenak.UniVoice.IAudioServer-1.html#Adrenak_UniVoice_IAudioServer_1_OnClientVoiceSettingsUpdated
+  commentId: E:Adrenak.UniVoice.IAudioServer`1.OnClientVoiceSettingsUpdated
+  fullName: Adrenak.UniVoice.IAudioServer<T>.OnClientVoiceSettingsUpdated
+  fullName.vb: Adrenak.UniVoice.IAudioServer(Of T).OnClientVoiceSettingsUpdated
+  nameWithType: IAudioServer<T>.OnClientVoiceSettingsUpdated
+  nameWithType.vb: IAudioServer(Of T).OnClientVoiceSettingsUpdated
+- uid: Adrenak.UniVoice.IAudioServer`1.OnServerStart
+  name: OnServerStart
+  href: api/Adrenak.UniVoice.IAudioServer-1.html#Adrenak_UniVoice_IAudioServer_1_OnServerStart
+  commentId: E:Adrenak.UniVoice.IAudioServer`1.OnServerStart
+  fullName: Adrenak.UniVoice.IAudioServer<T>.OnServerStart
+  fullName.vb: Adrenak.UniVoice.IAudioServer(Of T).OnServerStart
+  nameWithType: IAudioServer<T>.OnServerStart
+  nameWithType.vb: IAudioServer(Of T).OnServerStart
+- uid: Adrenak.UniVoice.IAudioServer`1.OnServerStop
+  name: OnServerStop
+  href: api/Adrenak.UniVoice.IAudioServer-1.html#Adrenak_UniVoice_IAudioServer_1_OnServerStop
+  commentId: E:Adrenak.UniVoice.IAudioServer`1.OnServerStop
+  fullName: Adrenak.UniVoice.IAudioServer<T>.OnServerStop
+  fullName.vb: Adrenak.UniVoice.IAudioServer(Of T).OnServerStop
+  nameWithType: IAudioServer<T>.OnServerStop
+  nameWithType.vb: IAudioServer(Of T).OnServerStop
+- uid: Adrenak.UniVoice.Inputs
+  name: Adrenak.UniVoice.Inputs
+  href: api/Adrenak.UniVoice.Inputs.html
+  commentId: N:Adrenak.UniVoice.Inputs
+  fullName: Adrenak.UniVoice.Inputs
+  nameWithType: Adrenak.UniVoice.Inputs
+- uid: Adrenak.UniVoice.Inputs.UniMicInput
+  name: UniMicInput
+  href: api/Adrenak.UniVoice.Inputs.UniMicInput.html
+  commentId: T:Adrenak.UniVoice.Inputs.UniMicInput
+  fullName: Adrenak.UniVoice.Inputs.UniMicInput
+  nameWithType: UniMicInput
+- uid: Adrenak.UniVoice.Inputs.UniMicInput.#ctor(Mic.Device)
+  name: UniMicInput(Mic.Device)
+  href: api/Adrenak.UniVoice.Inputs.UniMicInput.html#Adrenak_UniVoice_Inputs_UniMicInput__ctor_Mic_Device_
+  commentId: M:Adrenak.UniVoice.Inputs.UniMicInput.#ctor(Mic.Device)
+  fullName: Adrenak.UniVoice.Inputs.UniMicInput.UniMicInput(Mic.Device)
+  nameWithType: UniMicInput.UniMicInput(Mic.Device)
+- uid: Adrenak.UniVoice.Inputs.UniMicInput.#ctor*
+  name: UniMicInput
+  href: api/Adrenak.UniVoice.Inputs.UniMicInput.html#Adrenak_UniVoice_Inputs_UniMicInput__ctor_
+  commentId: Overload:Adrenak.UniVoice.Inputs.UniMicInput.#ctor
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Inputs.UniMicInput.UniMicInput
+  nameWithType: UniMicInput.UniMicInput
+- uid: Adrenak.UniVoice.Inputs.UniMicInput.device
+  name: device
+  href: api/Adrenak.UniVoice.Inputs.UniMicInput.html#Adrenak_UniVoice_Inputs_UniMicInput_device
+  commentId: F:Adrenak.UniVoice.Inputs.UniMicInput.device
+  fullName: Adrenak.UniVoice.Inputs.UniMicInput.device
+  nameWithType: UniMicInput.device
+- uid: Adrenak.UniVoice.Inputs.UniMicInput.Device
+  name: Device
+  href: api/Adrenak.UniVoice.Inputs.UniMicInput.html#Adrenak_UniVoice_Inputs_UniMicInput_Device
+  commentId: P:Adrenak.UniVoice.Inputs.UniMicInput.Device
+  fullName: Adrenak.UniVoice.Inputs.UniMicInput.Device
+  nameWithType: UniMicInput.Device
+- uid: Adrenak.UniVoice.Inputs.UniMicInput.Device*
+  name: Device
+  href: api/Adrenak.UniVoice.Inputs.UniMicInput.html#Adrenak_UniVoice_Inputs_UniMicInput_Device_
+  commentId: Overload:Adrenak.UniVoice.Inputs.UniMicInput.Device
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Inputs.UniMicInput.Device
+  nameWithType: UniMicInput.Device
+- uid: Adrenak.UniVoice.Inputs.UniMicInput.Dispose
+  name: Dispose()
+  href: api/Adrenak.UniVoice.Inputs.UniMicInput.html#Adrenak_UniVoice_Inputs_UniMicInput_Dispose
+  commentId: M:Adrenak.UniVoice.Inputs.UniMicInput.Dispose
+  fullName: Adrenak.UniVoice.Inputs.UniMicInput.Dispose()
+  nameWithType: UniMicInput.Dispose()
+- uid: Adrenak.UniVoice.Inputs.UniMicInput.Dispose*
+  name: Dispose
+  href: api/Adrenak.UniVoice.Inputs.UniMicInput.html#Adrenak_UniVoice_Inputs_UniMicInput_Dispose_
+  commentId: Overload:Adrenak.UniVoice.Inputs.UniMicInput.Dispose
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Inputs.UniMicInput.Dispose
+  nameWithType: UniMicInput.Dispose
+- uid: Adrenak.UniVoice.Inputs.UniMicInput.OnFrameReady
+  name: OnFrameReady
+  href: api/Adrenak.UniVoice.Inputs.UniMicInput.html#Adrenak_UniVoice_Inputs_UniMicInput_OnFrameReady
+  commentId: E:Adrenak.UniVoice.Inputs.UniMicInput.OnFrameReady
+  fullName: Adrenak.UniVoice.Inputs.UniMicInput.OnFrameReady
+  nameWithType: UniMicInput.OnFrameReady
+- uid: Adrenak.UniVoice.Networks
+  name: Adrenak.UniVoice.Networks
+  href: api/Adrenak.UniVoice.Networks.html
+  commentId: N:Adrenak.UniVoice.Networks
+  fullName: Adrenak.UniVoice.Networks
+  nameWithType: Adrenak.UniVoice.Networks
+- uid: Adrenak.UniVoice.Networks.FakeNetwork
+  name: FakeNetwork
+  href: api/Adrenak.UniVoice.Networks.FakeNetwork.html
+  commentId: T:Adrenak.UniVoice.Networks.FakeNetwork
+  fullName: Adrenak.UniVoice.Networks.FakeNetwork
+  nameWithType: FakeNetwork
+- uid: Adrenak.UniVoice.Outputs
+  name: Adrenak.UniVoice.Outputs
+  href: api/Adrenak.UniVoice.Outputs.html
+  commentId: N:Adrenak.UniVoice.Outputs
+  fullName: Adrenak.UniVoice.Outputs
+  nameWithType: Adrenak.UniVoice.Outputs
+- uid: Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput
+  name: StreamedAudioSourceOutput
+  href: api/Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.html
+  commentId: T:Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput
+  fullName: Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput
+  nameWithType: StreamedAudioSourceOutput
+- uid: Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.#ctor
+  name: StreamedAudioSourceOutput()
+  href: api/Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.html#Adrenak_UniVoice_Outputs_StreamedAudioSourceOutput__ctor
+  commentId: M:Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.#ctor
+  fullName: Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.StreamedAudioSourceOutput()
+  nameWithType: StreamedAudioSourceOutput.StreamedAudioSourceOutput()
+- uid: Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.#ctor*
+  name: StreamedAudioSourceOutput
+  href: api/Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.html#Adrenak_UniVoice_Outputs_StreamedAudioSourceOutput__ctor_
+  commentId: Overload:Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.#ctor
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.StreamedAudioSourceOutput
+  nameWithType: StreamedAudioSourceOutput.StreamedAudioSourceOutput
+- uid: Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Dispose
+  name: Dispose()
+  href: api/Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.html#Adrenak_UniVoice_Outputs_StreamedAudioSourceOutput_Dispose
+  commentId: M:Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Dispose
+  fullName: Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Dispose()
+  nameWithType: StreamedAudioSourceOutput.Dispose()
+- uid: Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Dispose*
+  name: Dispose
+  href: api/Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.html#Adrenak_UniVoice_Outputs_StreamedAudioSourceOutput_Dispose_
+  commentId: Overload:Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Dispose
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Dispose
+  nameWithType: StreamedAudioSourceOutput.Dispose
+- uid: Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Factory
+  name: StreamedAudioSourceOutput.Factory
+  href: api/Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Factory.html
+  commentId: T:Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Factory
+  fullName: Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Factory
+  nameWithType: StreamedAudioSourceOutput.Factory
+- uid: Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Factory.Create
+  name: Create()
+  href: api/Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Factory.html#Adrenak_UniVoice_Outputs_StreamedAudioSourceOutput_Factory_Create
+  commentId: M:Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Factory.Create
+  fullName: Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Factory.Create()
+  nameWithType: StreamedAudioSourceOutput.Factory.Create()
+- uid: Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Factory.Create*
+  name: Create
+  href: api/Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Factory.html#Adrenak_UniVoice_Outputs_StreamedAudioSourceOutput_Factory_Create_
+  commentId: Overload:Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Factory.Create
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Factory.Create
+  nameWithType: StreamedAudioSourceOutput.Factory.Create
+- uid: Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Feed(Adrenak.UniVoice.AudioFrame)
+  name: Feed(AudioFrame)
+  href: api/Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.html#Adrenak_UniVoice_Outputs_StreamedAudioSourceOutput_Feed_Adrenak_UniVoice_AudioFrame_
+  commentId: M:Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Feed(Adrenak.UniVoice.AudioFrame)
+  fullName: Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Feed(Adrenak.UniVoice.AudioFrame)
+  nameWithType: StreamedAudioSourceOutput.Feed(AudioFrame)
+- uid: Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Feed*
+  name: Feed
+  href: api/Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.html#Adrenak_UniVoice_Outputs_StreamedAudioSourceOutput_Feed_
+  commentId: Overload:Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Feed
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Feed
+  nameWithType: StreamedAudioSourceOutput.Feed
+- uid: Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.New
+  name: New()
+  href: api/Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.html#Adrenak_UniVoice_Outputs_StreamedAudioSourceOutput_New
+  commentId: M:Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.New
+  fullName: Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.New()
+  nameWithType: StreamedAudioSourceOutput.New()
+- uid: Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.New*
+  name: New
+  href: api/Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.html#Adrenak_UniVoice_Outputs_StreamedAudioSourceOutput_New_
+  commentId: Overload:Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.New
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.New
+  nameWithType: StreamedAudioSourceOutput.New
+- uid: Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Stream
+  name: Stream
+  href: api/Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.html#Adrenak_UniVoice_Outputs_StreamedAudioSourceOutput_Stream
+  commentId: P:Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Stream
+  fullName: Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Stream
+  nameWithType: StreamedAudioSourceOutput.Stream
+- uid: Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Stream*
+  name: Stream
+  href: api/Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.html#Adrenak_UniVoice_Outputs_StreamedAudioSourceOutput_Stream_
+  commentId: Overload:Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Stream
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Outputs.StreamedAudioSourceOutput.Stream
+  nameWithType: StreamedAudioSourceOutput.Stream
+- uid: Adrenak.UniVoice.Samples
+  name: Adrenak.UniVoice.Samples
+  href: api/Adrenak.UniVoice.Samples.html
+  commentId: N:Adrenak.UniVoice.Samples
+  fullName: Adrenak.UniVoice.Samples
+  nameWithType: Adrenak.UniVoice.Samples
+- uid: Adrenak.UniVoice.Samples.FishnetTagsSample
+  name: FishnetTagsSample
+  href: api/Adrenak.UniVoice.Samples.FishnetTagsSample.html
+  commentId: T:Adrenak.UniVoice.Samples.FishnetTagsSample
+  fullName: Adrenak.UniVoice.Samples.FishnetTagsSample
+  nameWithType: FishnetTagsSample
+- uid: Adrenak.UniVoice.Samples.MirrorTagsSample
+  name: MirrorTagsSample
+  href: api/Adrenak.UniVoice.Samples.MirrorTagsSample.html
+  commentId: T:Adrenak.UniVoice.Samples.MirrorTagsSample
+  fullName: Adrenak.UniVoice.Samples.MirrorTagsSample
+  nameWithType: MirrorTagsSample
+- uid: Adrenak.UniVoice.Samples.PeerView
+  name: PeerView
+  href: api/Adrenak.UniVoice.Samples.PeerView.html
+  commentId: T:Adrenak.UniVoice.Samples.PeerView
+  fullName: Adrenak.UniVoice.Samples.PeerView
+  nameWithType: PeerView
+- uid: Adrenak.UniVoice.Samples.PeerView.AllowIncomingAudio
+  name: AllowIncomingAudio
+  href: api/Adrenak.UniVoice.Samples.PeerView.html#Adrenak_UniVoice_Samples_PeerView_AllowIncomingAudio
+  commentId: P:Adrenak.UniVoice.Samples.PeerView.AllowIncomingAudio
+  fullName: Adrenak.UniVoice.Samples.PeerView.AllowIncomingAudio
+  nameWithType: PeerView.AllowIncomingAudio
+- uid: Adrenak.UniVoice.Samples.PeerView.AllowIncomingAudio*
+  name: AllowIncomingAudio
+  href: api/Adrenak.UniVoice.Samples.PeerView.html#Adrenak_UniVoice_Samples_PeerView_AllowIncomingAudio_
+  commentId: Overload:Adrenak.UniVoice.Samples.PeerView.AllowIncomingAudio
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Samples.PeerView.AllowIncomingAudio
+  nameWithType: PeerView.AllowIncomingAudio
+- uid: Adrenak.UniVoice.Samples.PeerView.AllowOutgoingAudio
+  name: AllowOutgoingAudio
+  href: api/Adrenak.UniVoice.Samples.PeerView.html#Adrenak_UniVoice_Samples_PeerView_AllowOutgoingAudio
+  commentId: P:Adrenak.UniVoice.Samples.PeerView.AllowOutgoingAudio
+  fullName: Adrenak.UniVoice.Samples.PeerView.AllowOutgoingAudio
+  nameWithType: PeerView.AllowOutgoingAudio
+- uid: Adrenak.UniVoice.Samples.PeerView.AllowOutgoingAudio*
+  name: AllowOutgoingAudio
+  href: api/Adrenak.UniVoice.Samples.PeerView.html#Adrenak_UniVoice_Samples_PeerView_AllowOutgoingAudio_
+  commentId: Overload:Adrenak.UniVoice.Samples.PeerView.AllowOutgoingAudio
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Samples.PeerView.AllowOutgoingAudio
+  nameWithType: PeerView.AllowOutgoingAudio
+- uid: Adrenak.UniVoice.Samples.PeerView.DisplaySpectrum(System.Single[])
+  name: DisplaySpectrum(Single[])
+  href: api/Adrenak.UniVoice.Samples.PeerView.html#Adrenak_UniVoice_Samples_PeerView_DisplaySpectrum_System_Single___
+  commentId: M:Adrenak.UniVoice.Samples.PeerView.DisplaySpectrum(System.Single[])
+  name.vb: DisplaySpectrum(Single())
+  fullName: Adrenak.UniVoice.Samples.PeerView.DisplaySpectrum(System.Single[])
+  fullName.vb: Adrenak.UniVoice.Samples.PeerView.DisplaySpectrum(System.Single())
+  nameWithType: PeerView.DisplaySpectrum(Single[])
+  nameWithType.vb: PeerView.DisplaySpectrum(Single())
+- uid: Adrenak.UniVoice.Samples.PeerView.DisplaySpectrum*
+  name: DisplaySpectrum
+  href: api/Adrenak.UniVoice.Samples.PeerView.html#Adrenak_UniVoice_Samples_PeerView_DisplaySpectrum_
+  commentId: Overload:Adrenak.UniVoice.Samples.PeerView.DisplaySpectrum
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Samples.PeerView.DisplaySpectrum
+  nameWithType: PeerView.DisplaySpectrum
+- uid: Adrenak.UniVoice.Samples.PeerView.OnAllowIncomingAudioChange
+  name: OnAllowIncomingAudioChange
+  href: api/Adrenak.UniVoice.Samples.PeerView.html#Adrenak_UniVoice_Samples_PeerView_OnAllowIncomingAudioChange
+  commentId: E:Adrenak.UniVoice.Samples.PeerView.OnAllowIncomingAudioChange
+  fullName: Adrenak.UniVoice.Samples.PeerView.OnAllowIncomingAudioChange
+  nameWithType: PeerView.OnAllowIncomingAudioChange
+- uid: Adrenak.UniVoice.Samples.PeerView.OnAllowOutgoingAudioChange
+  name: OnAllowOutgoingAudioChange
+  href: api/Adrenak.UniVoice.Samples.PeerView.html#Adrenak_UniVoice_Samples_PeerView_OnAllowOutgoingAudioChange
+  commentId: E:Adrenak.UniVoice.Samples.PeerView.OnAllowOutgoingAudioChange
+  fullName: Adrenak.UniVoice.Samples.PeerView.OnAllowOutgoingAudioChange
+  nameWithType: PeerView.OnAllowOutgoingAudioChange
+- uid: Adrenak.UniVoice.Samples.PeerView.SetPeerID(System.Int32)
+  name: SetPeerID(Int32)
+  href: api/Adrenak.UniVoice.Samples.PeerView.html#Adrenak_UniVoice_Samples_PeerView_SetPeerID_System_Int32_
+  commentId: M:Adrenak.UniVoice.Samples.PeerView.SetPeerID(System.Int32)
+  fullName: Adrenak.UniVoice.Samples.PeerView.SetPeerID(System.Int32)
+  nameWithType: PeerView.SetPeerID(Int32)
+- uid: Adrenak.UniVoice.Samples.PeerView.SetPeerID*
+  name: SetPeerID
+  href: api/Adrenak.UniVoice.Samples.PeerView.html#Adrenak_UniVoice_Samples_PeerView_SetPeerID_
+  commentId: Overload:Adrenak.UniVoice.Samples.PeerView.SetPeerID
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Samples.PeerView.SetPeerID
+  nameWithType: PeerView.SetPeerID
+- uid: Adrenak.UniVoice.Samples.ToggleExtension
+  name: ToggleExtension
+  href: api/Adrenak.UniVoice.Samples.ToggleExtension.html
+  commentId: T:Adrenak.UniVoice.Samples.ToggleExtension
+  fullName: Adrenak.UniVoice.Samples.ToggleExtension
+  nameWithType: ToggleExtension
+- uid: Adrenak.UniVoice.Samples.ToggleExtension.SetIsOnWithoutNotify(Toggle,System.Boolean)
+  name: SetIsOnWithoutNotify(Toggle, Boolean)
+  href: api/Adrenak.UniVoice.Samples.ToggleExtension.html#Adrenak_UniVoice_Samples_ToggleExtension_SetIsOnWithoutNotify_Toggle_System_Boolean_
+  commentId: M:Adrenak.UniVoice.Samples.ToggleExtension.SetIsOnWithoutNotify(Toggle,System.Boolean)
+  fullName: Adrenak.UniVoice.Samples.ToggleExtension.SetIsOnWithoutNotify(Toggle, System.Boolean)
+  nameWithType: ToggleExtension.SetIsOnWithoutNotify(Toggle, Boolean)
+- uid: Adrenak.UniVoice.Samples.ToggleExtension.SetIsOnWithoutNotify*
+  name: SetIsOnWithoutNotify
+  href: api/Adrenak.UniVoice.Samples.ToggleExtension.html#Adrenak_UniVoice_Samples_ToggleExtension_SetIsOnWithoutNotify_
+  commentId: Overload:Adrenak.UniVoice.Samples.ToggleExtension.SetIsOnWithoutNotify
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Samples.ToggleExtension.SetIsOnWithoutNotify
+  nameWithType: ToggleExtension.SetIsOnWithoutNotify
+- uid: Adrenak.UniVoice.Samples.UniVoiceFishNetSetupSample
+  name: UniVoiceFishNetSetupSample
+  href: api/Adrenak.UniVoice.Samples.UniVoiceFishNetSetupSample.html
+  commentId: T:Adrenak.UniVoice.Samples.UniVoiceFishNetSetupSample
+  fullName: Adrenak.UniVoice.Samples.UniVoiceFishNetSetupSample
+  nameWithType: UniVoiceFishNetSetupSample
+- uid: Adrenak.UniVoice.Samples.UniVoiceFishNetSetupSample.AudioServer
+  name: AudioServer
+  href: api/Adrenak.UniVoice.Samples.UniVoiceFishNetSetupSample.html#Adrenak_UniVoice_Samples_UniVoiceFishNetSetupSample_AudioServer
+  commentId: P:Adrenak.UniVoice.Samples.UniVoiceFishNetSetupSample.AudioServer
+  fullName: Adrenak.UniVoice.Samples.UniVoiceFishNetSetupSample.AudioServer
+  nameWithType: UniVoiceFishNetSetupSample.AudioServer
+- uid: Adrenak.UniVoice.Samples.UniVoiceFishNetSetupSample.AudioServer*
+  name: AudioServer
+  href: api/Adrenak.UniVoice.Samples.UniVoiceFishNetSetupSample.html#Adrenak_UniVoice_Samples_UniVoiceFishNetSetupSample_AudioServer_
+  commentId: Overload:Adrenak.UniVoice.Samples.UniVoiceFishNetSetupSample.AudioServer
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Samples.UniVoiceFishNetSetupSample.AudioServer
+  nameWithType: UniVoiceFishNetSetupSample.AudioServer
+- uid: Adrenak.UniVoice.Samples.UniVoiceFishNetSetupSample.ClientSession
+  name: ClientSession
+  href: api/Adrenak.UniVoice.Samples.UniVoiceFishNetSetupSample.html#Adrenak_UniVoice_Samples_UniVoiceFishNetSetupSample_ClientSession
+  commentId: P:Adrenak.UniVoice.Samples.UniVoiceFishNetSetupSample.ClientSession
+  fullName: Adrenak.UniVoice.Samples.UniVoiceFishNetSetupSample.ClientSession
+  nameWithType: UniVoiceFishNetSetupSample.ClientSession
+- uid: Adrenak.UniVoice.Samples.UniVoiceFishNetSetupSample.ClientSession*
+  name: ClientSession
+  href: api/Adrenak.UniVoice.Samples.UniVoiceFishNetSetupSample.html#Adrenak_UniVoice_Samples_UniVoiceFishNetSetupSample_ClientSession_
+  commentId: Overload:Adrenak.UniVoice.Samples.UniVoiceFishNetSetupSample.ClientSession
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Samples.UniVoiceFishNetSetupSample.ClientSession
+  nameWithType: UniVoiceFishNetSetupSample.ClientSession
+- uid: Adrenak.UniVoice.Samples.UniVoiceFishNetSetupSample.HasSetUp
+  name: HasSetUp
+  href: api/Adrenak.UniVoice.Samples.UniVoiceFishNetSetupSample.html#Adrenak_UniVoice_Samples_UniVoiceFishNetSetupSample_HasSetUp
+  commentId: P:Adrenak.UniVoice.Samples.UniVoiceFishNetSetupSample.HasSetUp
+  fullName: Adrenak.UniVoice.Samples.UniVoiceFishNetSetupSample.HasSetUp
+  nameWithType: UniVoiceFishNetSetupSample.HasSetUp
+- uid: Adrenak.UniVoice.Samples.UniVoiceFishNetSetupSample.HasSetUp*
+  name: HasSetUp
+  href: api/Adrenak.UniVoice.Samples.UniVoiceFishNetSetupSample.html#Adrenak_UniVoice_Samples_UniVoiceFishNetSetupSample_HasSetUp_
+  commentId: Overload:Adrenak.UniVoice.Samples.UniVoiceFishNetSetupSample.HasSetUp
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Samples.UniVoiceFishNetSetupSample.HasSetUp
+  nameWithType: UniVoiceFishNetSetupSample.HasSetUp
+- uid: Adrenak.UniVoice.Samples.UniVoiceMirrorSetupSample
+  name: UniVoiceMirrorSetupSample
+  href: api/Adrenak.UniVoice.Samples.UniVoiceMirrorSetupSample.html
+  commentId: T:Adrenak.UniVoice.Samples.UniVoiceMirrorSetupSample
+  fullName: Adrenak.UniVoice.Samples.UniVoiceMirrorSetupSample
+  nameWithType: UniVoiceMirrorSetupSample
+- uid: Adrenak.UniVoice.Samples.UniVoiceMirrorSetupSample.AudioServer
+  name: AudioServer
+  href: api/Adrenak.UniVoice.Samples.UniVoiceMirrorSetupSample.html#Adrenak_UniVoice_Samples_UniVoiceMirrorSetupSample_AudioServer
+  commentId: P:Adrenak.UniVoice.Samples.UniVoiceMirrorSetupSample.AudioServer
+  fullName: Adrenak.UniVoice.Samples.UniVoiceMirrorSetupSample.AudioServer
+  nameWithType: UniVoiceMirrorSetupSample.AudioServer
+- uid: Adrenak.UniVoice.Samples.UniVoiceMirrorSetupSample.AudioServer*
+  name: AudioServer
+  href: api/Adrenak.UniVoice.Samples.UniVoiceMirrorSetupSample.html#Adrenak_UniVoice_Samples_UniVoiceMirrorSetupSample_AudioServer_
+  commentId: Overload:Adrenak.UniVoice.Samples.UniVoiceMirrorSetupSample.AudioServer
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Samples.UniVoiceMirrorSetupSample.AudioServer
+  nameWithType: UniVoiceMirrorSetupSample.AudioServer
+- uid: Adrenak.UniVoice.Samples.UniVoiceMirrorSetupSample.ClientSession
+  name: ClientSession
+  href: api/Adrenak.UniVoice.Samples.UniVoiceMirrorSetupSample.html#Adrenak_UniVoice_Samples_UniVoiceMirrorSetupSample_ClientSession
+  commentId: P:Adrenak.UniVoice.Samples.UniVoiceMirrorSetupSample.ClientSession
+  fullName: Adrenak.UniVoice.Samples.UniVoiceMirrorSetupSample.ClientSession
+  nameWithType: UniVoiceMirrorSetupSample.ClientSession
+- uid: Adrenak.UniVoice.Samples.UniVoiceMirrorSetupSample.ClientSession*
+  name: ClientSession
+  href: api/Adrenak.UniVoice.Samples.UniVoiceMirrorSetupSample.html#Adrenak_UniVoice_Samples_UniVoiceMirrorSetupSample_ClientSession_
+  commentId: Overload:Adrenak.UniVoice.Samples.UniVoiceMirrorSetupSample.ClientSession
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Samples.UniVoiceMirrorSetupSample.ClientSession
+  nameWithType: UniVoiceMirrorSetupSample.ClientSession
+- uid: Adrenak.UniVoice.Samples.UniVoiceMirrorSetupSample.HasSetUp
+  name: HasSetUp
+  href: api/Adrenak.UniVoice.Samples.UniVoiceMirrorSetupSample.html#Adrenak_UniVoice_Samples_UniVoiceMirrorSetupSample_HasSetUp
+  commentId: P:Adrenak.UniVoice.Samples.UniVoiceMirrorSetupSample.HasSetUp
+  fullName: Adrenak.UniVoice.Samples.UniVoiceMirrorSetupSample.HasSetUp
+  nameWithType: UniVoiceMirrorSetupSample.HasSetUp
+- uid: Adrenak.UniVoice.Samples.UniVoiceMirrorSetupSample.HasSetUp*
+  name: HasSetUp
+  href: api/Adrenak.UniVoice.Samples.UniVoiceMirrorSetupSample.html#Adrenak_UniVoice_Samples_UniVoiceMirrorSetupSample_HasSetUp_
+  commentId: Overload:Adrenak.UniVoice.Samples.UniVoiceMirrorSetupSample.HasSetUp
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Samples.UniVoiceMirrorSetupSample.HasSetUp
+  nameWithType: UniVoiceMirrorSetupSample.HasSetUp
+- uid: Adrenak.UniVoice.SimpleVad
+  name: SimpleVad
+  href: api/Adrenak.UniVoice.SimpleVad.html
+  commentId: T:Adrenak.UniVoice.SimpleVad
+  fullName: Adrenak.UniVoice.SimpleVad
+  nameWithType: SimpleVad
+- uid: Adrenak.UniVoice.SimpleVad.#ctor(Adrenak.UniVoice.SimpleVad.Config)
+  name: SimpleVad(SimpleVad.Config)
+  href: api/Adrenak.UniVoice.SimpleVad.html#Adrenak_UniVoice_SimpleVad__ctor_Adrenak_UniVoice_SimpleVad_Config_
+  commentId: M:Adrenak.UniVoice.SimpleVad.#ctor(Adrenak.UniVoice.SimpleVad.Config)
+  fullName: Adrenak.UniVoice.SimpleVad.SimpleVad(Adrenak.UniVoice.SimpleVad.Config)
+  nameWithType: SimpleVad.SimpleVad(SimpleVad.Config)
+- uid: Adrenak.UniVoice.SimpleVad.#ctor*
+  name: SimpleVad
+  href: api/Adrenak.UniVoice.SimpleVad.html#Adrenak_UniVoice_SimpleVad__ctor_
+  commentId: Overload:Adrenak.UniVoice.SimpleVad.#ctor
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.SimpleVad.SimpleVad
+  nameWithType: SimpleVad.SimpleVad
+- uid: Adrenak.UniVoice.SimpleVad.Config
+  name: SimpleVad.Config
+  href: api/Adrenak.UniVoice.SimpleVad.Config.html
+  commentId: T:Adrenak.UniVoice.SimpleVad.Config
+  fullName: Adrenak.UniVoice.SimpleVad.Config
+  nameWithType: SimpleVad.Config
+- uid: Adrenak.UniVoice.SimpleVad.Config.AttackMs
+  name: AttackMs
+  href: api/Adrenak.UniVoice.SimpleVad.Config.html#Adrenak_UniVoice_SimpleVad_Config_AttackMs
+  commentId: F:Adrenak.UniVoice.SimpleVad.Config.AttackMs
+  fullName: Adrenak.UniVoice.SimpleVad.Config.AttackMs
+  nameWithType: SimpleVad.Config.AttackMs
+- uid: Adrenak.UniVoice.SimpleVad.Config.EnergyFloor
+  name: EnergyFloor
+  href: api/Adrenak.UniVoice.SimpleVad.Config.html#Adrenak_UniVoice_SimpleVad_Config_EnergyFloor
+  commentId: F:Adrenak.UniVoice.SimpleVad.Config.EnergyFloor
+  fullName: Adrenak.UniVoice.SimpleVad.Config.EnergyFloor
+  nameWithType: SimpleVad.Config.EnergyFloor
+- uid: Adrenak.UniVoice.SimpleVad.Config.MaxGapMs
+  name: MaxGapMs
+  href: api/Adrenak.UniVoice.SimpleVad.Config.html#Adrenak_UniVoice_SimpleVad_Config_MaxGapMs
+  commentId: F:Adrenak.UniVoice.SimpleVad.Config.MaxGapMs
+  fullName: Adrenak.UniVoice.SimpleVad.Config.MaxGapMs
+  nameWithType: SimpleVad.Config.MaxGapMs
+- uid: Adrenak.UniVoice.SimpleVad.Config.MinNoiseRms
+  name: MinNoiseRms
+  href: api/Adrenak.UniVoice.SimpleVad.Config.html#Adrenak_UniVoice_SimpleVad_Config_MinNoiseRms
+  commentId: F:Adrenak.UniVoice.SimpleVad.Config.MinNoiseRms
+  fullName: Adrenak.UniVoice.SimpleVad.Config.MinNoiseRms
+  nameWithType: SimpleVad.Config.MinNoiseRms
+- uid: Adrenak.UniVoice.SimpleVad.Config.NoDropWindowMs
+  name: NoDropWindowMs
+  href: api/Adrenak.UniVoice.SimpleVad.Config.html#Adrenak_UniVoice_SimpleVad_Config_NoDropWindowMs
+  commentId: F:Adrenak.UniVoice.SimpleVad.Config.NoDropWindowMs
+  fullName: Adrenak.UniVoice.SimpleVad.Config.NoDropWindowMs
+  nameWithType: SimpleVad.Config.NoDropWindowMs
+- uid: Adrenak.UniVoice.SimpleVad.Config.NonSpeechNoiseUpdateRate
+  name: NonSpeechNoiseUpdateRate
+  href: api/Adrenak.UniVoice.SimpleVad.Config.html#Adrenak_UniVoice_SimpleVad_Config_NonSpeechNoiseUpdateRate
+  commentId: F:Adrenak.UniVoice.SimpleVad.Config.NonSpeechNoiseUpdateRate
+  fullName: Adrenak.UniVoice.SimpleVad.Config.NonSpeechNoiseUpdateRate
+  nameWithType: SimpleVad.Config.NonSpeechNoiseUpdateRate
+- uid: Adrenak.UniVoice.SimpleVad.Config.ReleaseMs
+  name: ReleaseMs
+  href: api/Adrenak.UniVoice.SimpleVad.Config.html#Adrenak_UniVoice_SimpleVad_Config_ReleaseMs
+  commentId: F:Adrenak.UniVoice.SimpleVad.Config.ReleaseMs
+  fullName: Adrenak.UniVoice.SimpleVad.Config.ReleaseMs
+  nameWithType: SimpleVad.Config.ReleaseMs
+- uid: Adrenak.UniVoice.SimpleVad.Config.SnrEnterDb
+  name: SnrEnterDb
+  href: api/Adrenak.UniVoice.SimpleVad.Config.html#Adrenak_UniVoice_SimpleVad_Config_SnrEnterDb
+  commentId: F:Adrenak.UniVoice.SimpleVad.Config.SnrEnterDb
+  fullName: Adrenak.UniVoice.SimpleVad.Config.SnrEnterDb
+  nameWithType: SimpleVad.Config.SnrEnterDb
+- uid: Adrenak.UniVoice.SimpleVad.Config.SnrExitDb
+  name: SnrExitDb
+  href: api/Adrenak.UniVoice.SimpleVad.Config.html#Adrenak_UniVoice_SimpleVad_Config_SnrExitDb
+  commentId: F:Adrenak.UniVoice.SimpleVad.Config.SnrExitDb
+  fullName: Adrenak.UniVoice.SimpleVad.Config.SnrExitDb
+  nameWithType: SimpleVad.Config.SnrExitDb
+- uid: Adrenak.UniVoice.SimpleVad.Config.SpeechNoiseUpdateRate
+  name: SpeechNoiseUpdateRate
+  href: api/Adrenak.UniVoice.SimpleVad.Config.html#Adrenak_UniVoice_SimpleVad_Config_SpeechNoiseUpdateRate
+  commentId: F:Adrenak.UniVoice.SimpleVad.Config.SpeechNoiseUpdateRate
+  fullName: Adrenak.UniVoice.SimpleVad.Config.SpeechNoiseUpdateRate
+  nameWithType: SimpleVad.Config.SpeechNoiseUpdateRate
+- uid: Adrenak.UniVoice.SimpleVad.Config.TargetFrameMs
+  name: TargetFrameMs
+  href: api/Adrenak.UniVoice.SimpleVad.Config.html#Adrenak_UniVoice_SimpleVad_Config_TargetFrameMs
+  commentId: F:Adrenak.UniVoice.SimpleVad.Config.TargetFrameMs
+  fullName: Adrenak.UniVoice.SimpleVad.Config.TargetFrameMs
+  nameWithType: SimpleVad.Config.TargetFrameMs
+- uid: Adrenak.UniVoice.SimpleVad.IsSpeaking
+  name: IsSpeaking
+  href: api/Adrenak.UniVoice.SimpleVad.html#Adrenak_UniVoice_SimpleVad_IsSpeaking
+  commentId: P:Adrenak.UniVoice.SimpleVad.IsSpeaking
+  fullName: Adrenak.UniVoice.SimpleVad.IsSpeaking
+  nameWithType: SimpleVad.IsSpeaking
+- uid: Adrenak.UniVoice.SimpleVad.IsSpeaking*
+  name: IsSpeaking
+  href: api/Adrenak.UniVoice.SimpleVad.html#Adrenak_UniVoice_SimpleVad_IsSpeaking_
+  commentId: Overload:Adrenak.UniVoice.SimpleVad.IsSpeaking
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.SimpleVad.IsSpeaking
+  nameWithType: SimpleVad.IsSpeaking
+- uid: Adrenak.UniVoice.SimpleVad.OnVadChanged
+  name: OnVadChanged
+  href: api/Adrenak.UniVoice.SimpleVad.html#Adrenak_UniVoice_SimpleVad_OnVadChanged
+  commentId: E:Adrenak.UniVoice.SimpleVad.OnVadChanged
+  fullName: Adrenak.UniVoice.SimpleVad.OnVadChanged
+  nameWithType: SimpleVad.OnVadChanged
+- uid: Adrenak.UniVoice.SimpleVad.Process(System.Int32,System.Int32,System.Int16[])
+  name: Process(Int32, Int32, Int16[])
+  href: api/Adrenak.UniVoice.SimpleVad.html#Adrenak_UniVoice_SimpleVad_Process_System_Int32_System_Int32_System_Int16___
+  commentId: M:Adrenak.UniVoice.SimpleVad.Process(System.Int32,System.Int32,System.Int16[])
+  name.vb: Process(Int32, Int32, Int16())
+  fullName: Adrenak.UniVoice.SimpleVad.Process(System.Int32, System.Int32, System.Int16[])
+  fullName.vb: Adrenak.UniVoice.SimpleVad.Process(System.Int32, System.Int32, System.Int16())
+  nameWithType: SimpleVad.Process(Int32, Int32, Int16[])
+  nameWithType.vb: SimpleVad.Process(Int32, Int32, Int16())
+- uid: Adrenak.UniVoice.SimpleVad.Process(System.Int32,System.Int32,System.Int16[],System.Int32)
+  name: Process(Int32, Int32, Int16[], Int32)
+  href: api/Adrenak.UniVoice.SimpleVad.html#Adrenak_UniVoice_SimpleVad_Process_System_Int32_System_Int32_System_Int16___System_Int32_
+  commentId: M:Adrenak.UniVoice.SimpleVad.Process(System.Int32,System.Int32,System.Int16[],System.Int32)
+  name.vb: Process(Int32, Int32, Int16(), Int32)
+  fullName: Adrenak.UniVoice.SimpleVad.Process(System.Int32, System.Int32, System.Int16[], System.Int32)
+  fullName.vb: Adrenak.UniVoice.SimpleVad.Process(System.Int32, System.Int32, System.Int16(), System.Int32)
+  nameWithType: SimpleVad.Process(Int32, Int32, Int16[], Int32)
+  nameWithType.vb: SimpleVad.Process(Int32, Int32, Int16(), Int32)
+- uid: Adrenak.UniVoice.SimpleVad.Process(System.Int32,System.Int32,System.Single[])
+  name: Process(Int32, Int32, Single[])
+  href: api/Adrenak.UniVoice.SimpleVad.html#Adrenak_UniVoice_SimpleVad_Process_System_Int32_System_Int32_System_Single___
+  commentId: M:Adrenak.UniVoice.SimpleVad.Process(System.Int32,System.Int32,System.Single[])
+  name.vb: Process(Int32, Int32, Single())
+  fullName: Adrenak.UniVoice.SimpleVad.Process(System.Int32, System.Int32, System.Single[])
+  fullName.vb: Adrenak.UniVoice.SimpleVad.Process(System.Int32, System.Int32, System.Single())
+  nameWithType: SimpleVad.Process(Int32, Int32, Single[])
+  nameWithType.vb: SimpleVad.Process(Int32, Int32, Single())
+- uid: Adrenak.UniVoice.SimpleVad.Process(System.Int32,System.Int32,System.Single[],System.Int32)
+  name: Process(Int32, Int32, Single[], Int32)
+  href: api/Adrenak.UniVoice.SimpleVad.html#Adrenak_UniVoice_SimpleVad_Process_System_Int32_System_Int32_System_Single___System_Int32_
+  commentId: M:Adrenak.UniVoice.SimpleVad.Process(System.Int32,System.Int32,System.Single[],System.Int32)
+  name.vb: Process(Int32, Int32, Single(), Int32)
+  fullName: Adrenak.UniVoice.SimpleVad.Process(System.Int32, System.Int32, System.Single[], System.Int32)
+  fullName.vb: Adrenak.UniVoice.SimpleVad.Process(System.Int32, System.Int32, System.Single(), System.Int32)
+  nameWithType: SimpleVad.Process(Int32, Int32, Single[], Int32)
+  nameWithType.vb: SimpleVad.Process(Int32, Int32, Single(), Int32)
+- uid: Adrenak.UniVoice.SimpleVad.Process*
+  name: Process
+  href: api/Adrenak.UniVoice.SimpleVad.html#Adrenak_UniVoice_SimpleVad_Process_
+  commentId: Overload:Adrenak.UniVoice.SimpleVad.Process
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.SimpleVad.Process
+  nameWithType: SimpleVad.Process
+- uid: Adrenak.UniVoice.SimpleVad.Reset(System.Boolean)
+  name: Reset(Boolean)
+  href: api/Adrenak.UniVoice.SimpleVad.html#Adrenak_UniVoice_SimpleVad_Reset_System_Boolean_
+  commentId: M:Adrenak.UniVoice.SimpleVad.Reset(System.Boolean)
+  fullName: Adrenak.UniVoice.SimpleVad.Reset(System.Boolean)
+  nameWithType: SimpleVad.Reset(Boolean)
+- uid: Adrenak.UniVoice.SimpleVad.Reset*
+  name: Reset
+  href: api/Adrenak.UniVoice.SimpleVad.html#Adrenak_UniVoice_SimpleVad_Reset_
+  commentId: Overload:Adrenak.UniVoice.SimpleVad.Reset
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.SimpleVad.Reset
+  nameWithType: SimpleVad.Reset
+- uid: Adrenak.UniVoice.Utils
+  name: Utils
+  href: api/Adrenak.UniVoice.Utils.html
+  commentId: T:Adrenak.UniVoice.Utils
+  fullName: Adrenak.UniVoice.Utils
+  nameWithType: Utils
+- uid: Adrenak.UniVoice.Utils.Audio
+  name: Utils.Audio
+  href: api/Adrenak.UniVoice.Utils.Audio.html
+  commentId: T:Adrenak.UniVoice.Utils.Audio
+  fullName: Adrenak.UniVoice.Utils.Audio
+  nameWithType: Utils.Audio
+- uid: Adrenak.UniVoice.Utils.Audio.CalculateRMS(System.Byte[])
+  name: CalculateRMS(Byte[])
+  href: api/Adrenak.UniVoice.Utils.Audio.html#Adrenak_UniVoice_Utils_Audio_CalculateRMS_System_Byte___
+  commentId: M:Adrenak.UniVoice.Utils.Audio.CalculateRMS(System.Byte[])
+  name.vb: CalculateRMS(Byte())
+  fullName: Adrenak.UniVoice.Utils.Audio.CalculateRMS(System.Byte[])
+  fullName.vb: Adrenak.UniVoice.Utils.Audio.CalculateRMS(System.Byte())
+  nameWithType: Utils.Audio.CalculateRMS(Byte[])
+  nameWithType.vb: Utils.Audio.CalculateRMS(Byte())
+- uid: Adrenak.UniVoice.Utils.Audio.CalculateRMS*
+  name: CalculateRMS
+  href: api/Adrenak.UniVoice.Utils.Audio.html#Adrenak_UniVoice_Utils_Audio_CalculateRMS_
+  commentId: Overload:Adrenak.UniVoice.Utils.Audio.CalculateRMS
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Utils.Audio.CalculateRMS
+  nameWithType: Utils.Audio.CalculateRMS
+- uid: Adrenak.UniVoice.Utils.Bytes
+  name: Utils.Bytes
+  href: api/Adrenak.UniVoice.Utils.Bytes.html
+  commentId: T:Adrenak.UniVoice.Utils.Bytes
+  fullName: Adrenak.UniVoice.Utils.Bytes
+  nameWithType: Utils.Bytes
+- uid: Adrenak.UniVoice.Utils.Bytes.BytesToFloats(System.Byte[])
+  name: BytesToFloats(Byte[])
+  href: api/Adrenak.UniVoice.Utils.Bytes.html#Adrenak_UniVoice_Utils_Bytes_BytesToFloats_System_Byte___
+  commentId: M:Adrenak.UniVoice.Utils.Bytes.BytesToFloats(System.Byte[])
+  name.vb: BytesToFloats(Byte())
+  fullName: Adrenak.UniVoice.Utils.Bytes.BytesToFloats(System.Byte[])
+  fullName.vb: Adrenak.UniVoice.Utils.Bytes.BytesToFloats(System.Byte())
+  nameWithType: Utils.Bytes.BytesToFloats(Byte[])
+  nameWithType.vb: Utils.Bytes.BytesToFloats(Byte())
+- uid: Adrenak.UniVoice.Utils.Bytes.BytesToFloats*
+  name: BytesToFloats
+  href: api/Adrenak.UniVoice.Utils.Bytes.html#Adrenak_UniVoice_Utils_Bytes_BytesToFloats_
+  commentId: Overload:Adrenak.UniVoice.Utils.Bytes.BytesToFloats
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Utils.Bytes.BytesToFloats
+  nameWithType: Utils.Bytes.BytesToFloats
+- uid: Adrenak.UniVoice.Utils.Bytes.FloatsToBytes(System.Single[])
+  name: FloatsToBytes(Single[])
+  href: api/Adrenak.UniVoice.Utils.Bytes.html#Adrenak_UniVoice_Utils_Bytes_FloatsToBytes_System_Single___
+  commentId: M:Adrenak.UniVoice.Utils.Bytes.FloatsToBytes(System.Single[])
+  name.vb: FloatsToBytes(Single())
+  fullName: Adrenak.UniVoice.Utils.Bytes.FloatsToBytes(System.Single[])
+  fullName.vb: Adrenak.UniVoice.Utils.Bytes.FloatsToBytes(System.Single())
+  nameWithType: Utils.Bytes.FloatsToBytes(Single[])
+  nameWithType.vb: Utils.Bytes.FloatsToBytes(Single())
+- uid: Adrenak.UniVoice.Utils.Bytes.FloatsToBytes*
+  name: FloatsToBytes
+  href: api/Adrenak.UniVoice.Utils.Bytes.html#Adrenak_UniVoice_Utils_Bytes_FloatsToBytes_
+  commentId: Overload:Adrenak.UniVoice.Utils.Bytes.FloatsToBytes
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Utils.Bytes.FloatsToBytes
+  nameWithType: Utils.Bytes.FloatsToBytes
+- uid: Adrenak.UniVoice.Utils.Network
+  name: Utils.Network
+  href: api/Adrenak.UniVoice.Utils.Network.html
+  commentId: T:Adrenak.UniVoice.Utils.Network
+  fullName: Adrenak.UniVoice.Utils.Network
+  nameWithType: Utils.Network
+- uid: Adrenak.UniVoice.Utils.Network.LocalIPv4Address
+  name: LocalIPv4Address
+  href: api/Adrenak.UniVoice.Utils.Network.html#Adrenak_UniVoice_Utils_Network_LocalIPv4Address
+  commentId: P:Adrenak.UniVoice.Utils.Network.LocalIPv4Address
+  fullName: Adrenak.UniVoice.Utils.Network.LocalIPv4Address
+  nameWithType: Utils.Network.LocalIPv4Address
+- uid: Adrenak.UniVoice.Utils.Network.LocalIPv4Address*
+  name: LocalIPv4Address
+  href: api/Adrenak.UniVoice.Utils.Network.html#Adrenak_UniVoice_Utils_Network_LocalIPv4Address_
+  commentId: Overload:Adrenak.UniVoice.Utils.Network.LocalIPv4Address
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.Utils.Network.LocalIPv4Address
+  nameWithType: Utils.Network.LocalIPv4Address
+- uid: Adrenak.UniVoice.VoiceSettings
+  name: VoiceSettings
+  href: api/Adrenak.UniVoice.VoiceSettings.html
+  commentId: T:Adrenak.UniVoice.VoiceSettings
+  fullName: Adrenak.UniVoice.VoiceSettings
+  nameWithType: VoiceSettings
+- uid: Adrenak.UniVoice.VoiceSettings.AddDeafenedTag(System.String)
+  name: AddDeafenedTag(String)
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_AddDeafenedTag_System_String_
+  commentId: M:Adrenak.UniVoice.VoiceSettings.AddDeafenedTag(System.String)
+  fullName: Adrenak.UniVoice.VoiceSettings.AddDeafenedTag(System.String)
+  nameWithType: VoiceSettings.AddDeafenedTag(String)
+- uid: Adrenak.UniVoice.VoiceSettings.AddDeafenedTag*
+  name: AddDeafenedTag
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_AddDeafenedTag_
+  commentId: Overload:Adrenak.UniVoice.VoiceSettings.AddDeafenedTag
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.VoiceSettings.AddDeafenedTag
+  nameWithType: VoiceSettings.AddDeafenedTag
+- uid: Adrenak.UniVoice.VoiceSettings.AddMutedTag(System.String)
+  name: AddMutedTag(String)
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_AddMutedTag_System_String_
+  commentId: M:Adrenak.UniVoice.VoiceSettings.AddMutedTag(System.String)
+  fullName: Adrenak.UniVoice.VoiceSettings.AddMutedTag(System.String)
+  nameWithType: VoiceSettings.AddMutedTag(String)
+- uid: Adrenak.UniVoice.VoiceSettings.AddMutedTag*
+  name: AddMutedTag
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_AddMutedTag_
+  commentId: Overload:Adrenak.UniVoice.VoiceSettings.AddMutedTag
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.VoiceSettings.AddMutedTag
+  nameWithType: VoiceSettings.AddMutedTag
+- uid: Adrenak.UniVoice.VoiceSettings.AddMyTag(System.String)
+  name: AddMyTag(String)
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_AddMyTag_System_String_
+  commentId: M:Adrenak.UniVoice.VoiceSettings.AddMyTag(System.String)
+  fullName: Adrenak.UniVoice.VoiceSettings.AddMyTag(System.String)
+  nameWithType: VoiceSettings.AddMyTag(String)
+- uid: Adrenak.UniVoice.VoiceSettings.AddMyTag*
+  name: AddMyTag
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_AddMyTag_
+  commentId: Overload:Adrenak.UniVoice.VoiceSettings.AddMyTag
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.VoiceSettings.AddMyTag
+  nameWithType: VoiceSettings.AddMyTag
+- uid: Adrenak.UniVoice.VoiceSettings.deafenAll
+  name: deafenAll
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_deafenAll
+  commentId: F:Adrenak.UniVoice.VoiceSettings.deafenAll
+  fullName: Adrenak.UniVoice.VoiceSettings.deafenAll
+  nameWithType: VoiceSettings.deafenAll
+- uid: Adrenak.UniVoice.VoiceSettings.deafenedPeers
+  name: deafenedPeers
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_deafenedPeers
+  commentId: F:Adrenak.UniVoice.VoiceSettings.deafenedPeers
+  fullName: Adrenak.UniVoice.VoiceSettings.deafenedPeers
+  nameWithType: VoiceSettings.deafenedPeers
+- uid: Adrenak.UniVoice.VoiceSettings.deafenedTags
+  name: deafenedTags
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_deafenedTags
+  commentId: P:Adrenak.UniVoice.VoiceSettings.deafenedTags
+  fullName: Adrenak.UniVoice.VoiceSettings.deafenedTags
+  nameWithType: VoiceSettings.deafenedTags
+- uid: Adrenak.UniVoice.VoiceSettings.deafenedTags*
+  name: deafenedTags
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_deafenedTags_
+  commentId: Overload:Adrenak.UniVoice.VoiceSettings.deafenedTags
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.VoiceSettings.deafenedTags
+  nameWithType: VoiceSettings.deafenedTags
+- uid: Adrenak.UniVoice.VoiceSettings.muteAll
+  name: muteAll
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_muteAll
+  commentId: F:Adrenak.UniVoice.VoiceSettings.muteAll
+  fullName: Adrenak.UniVoice.VoiceSettings.muteAll
+  nameWithType: VoiceSettings.muteAll
+- uid: Adrenak.UniVoice.VoiceSettings.mutedPeers
+  name: mutedPeers
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_mutedPeers
+  commentId: F:Adrenak.UniVoice.VoiceSettings.mutedPeers
+  fullName: Adrenak.UniVoice.VoiceSettings.mutedPeers
+  nameWithType: VoiceSettings.mutedPeers
+- uid: Adrenak.UniVoice.VoiceSettings.mutedTags
+  name: mutedTags
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_mutedTags
+  commentId: P:Adrenak.UniVoice.VoiceSettings.mutedTags
+  fullName: Adrenak.UniVoice.VoiceSettings.mutedTags
+  nameWithType: VoiceSettings.mutedTags
+- uid: Adrenak.UniVoice.VoiceSettings.mutedTags*
+  name: mutedTags
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_mutedTags_
+  commentId: Overload:Adrenak.UniVoice.VoiceSettings.mutedTags
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.VoiceSettings.mutedTags
+  nameWithType: VoiceSettings.mutedTags
+- uid: Adrenak.UniVoice.VoiceSettings.myTags
+  name: myTags
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_myTags
+  commentId: P:Adrenak.UniVoice.VoiceSettings.myTags
+  fullName: Adrenak.UniVoice.VoiceSettings.myTags
+  nameWithType: VoiceSettings.myTags
+- uid: Adrenak.UniVoice.VoiceSettings.myTags*
+  name: myTags
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_myTags_
+  commentId: Overload:Adrenak.UniVoice.VoiceSettings.myTags
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.VoiceSettings.myTags
+  nameWithType: VoiceSettings.myTags
+- uid: Adrenak.UniVoice.VoiceSettings.RemoveDeafenedTag(System.String)
+  name: RemoveDeafenedTag(String)
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_RemoveDeafenedTag_System_String_
+  commentId: M:Adrenak.UniVoice.VoiceSettings.RemoveDeafenedTag(System.String)
+  fullName: Adrenak.UniVoice.VoiceSettings.RemoveDeafenedTag(System.String)
+  nameWithType: VoiceSettings.RemoveDeafenedTag(String)
+- uid: Adrenak.UniVoice.VoiceSettings.RemoveDeafenedTag*
+  name: RemoveDeafenedTag
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_RemoveDeafenedTag_
+  commentId: Overload:Adrenak.UniVoice.VoiceSettings.RemoveDeafenedTag
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.VoiceSettings.RemoveDeafenedTag
+  nameWithType: VoiceSettings.RemoveDeafenedTag
+- uid: Adrenak.UniVoice.VoiceSettings.RemoveMutedTag(System.String)
+  name: RemoveMutedTag(String)
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_RemoveMutedTag_System_String_
+  commentId: M:Adrenak.UniVoice.VoiceSettings.RemoveMutedTag(System.String)
+  fullName: Adrenak.UniVoice.VoiceSettings.RemoveMutedTag(System.String)
+  nameWithType: VoiceSettings.RemoveMutedTag(String)
+- uid: Adrenak.UniVoice.VoiceSettings.RemoveMutedTag*
+  name: RemoveMutedTag
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_RemoveMutedTag_
+  commentId: Overload:Adrenak.UniVoice.VoiceSettings.RemoveMutedTag
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.VoiceSettings.RemoveMutedTag
+  nameWithType: VoiceSettings.RemoveMutedTag
+- uid: Adrenak.UniVoice.VoiceSettings.RemoveMyTag(System.String)
+  name: RemoveMyTag(String)
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_RemoveMyTag_System_String_
+  commentId: M:Adrenak.UniVoice.VoiceSettings.RemoveMyTag(System.String)
+  fullName: Adrenak.UniVoice.VoiceSettings.RemoveMyTag(System.String)
+  nameWithType: VoiceSettings.RemoveMyTag(String)
+- uid: Adrenak.UniVoice.VoiceSettings.RemoveMyTag*
+  name: RemoveMyTag
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_RemoveMyTag_
+  commentId: Overload:Adrenak.UniVoice.VoiceSettings.RemoveMyTag
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.VoiceSettings.RemoveMyTag
+  nameWithType: VoiceSettings.RemoveMyTag
+- uid: Adrenak.UniVoice.VoiceSettings.SetDeaf(System.Int32,System.Boolean)
+  name: SetDeaf(Int32, Boolean)
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_SetDeaf_System_Int32_System_Boolean_
+  commentId: M:Adrenak.UniVoice.VoiceSettings.SetDeaf(System.Int32,System.Boolean)
+  fullName: Adrenak.UniVoice.VoiceSettings.SetDeaf(System.Int32, System.Boolean)
+  nameWithType: VoiceSettings.SetDeaf(Int32, Boolean)
+- uid: Adrenak.UniVoice.VoiceSettings.SetDeaf*
+  name: SetDeaf
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_SetDeaf_
+  commentId: Overload:Adrenak.UniVoice.VoiceSettings.SetDeaf
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.VoiceSettings.SetDeaf
+  nameWithType: VoiceSettings.SetDeaf
+- uid: Adrenak.UniVoice.VoiceSettings.SetDeafenedTag(System.String,System.Boolean)
+  name: SetDeafenedTag(String, Boolean)
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_SetDeafenedTag_System_String_System_Boolean_
+  commentId: M:Adrenak.UniVoice.VoiceSettings.SetDeafenedTag(System.String,System.Boolean)
+  fullName: Adrenak.UniVoice.VoiceSettings.SetDeafenedTag(System.String, System.Boolean)
+  nameWithType: VoiceSettings.SetDeafenedTag(String, Boolean)
+- uid: Adrenak.UniVoice.VoiceSettings.SetDeafenedTag*
+  name: SetDeafenedTag
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_SetDeafenedTag_
+  commentId: Overload:Adrenak.UniVoice.VoiceSettings.SetDeafenedTag
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.VoiceSettings.SetDeafenedTag
+  nameWithType: VoiceSettings.SetDeafenedTag
+- uid: Adrenak.UniVoice.VoiceSettings.SetMute(System.Int32,System.Boolean)
+  name: SetMute(Int32, Boolean)
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_SetMute_System_Int32_System_Boolean_
+  commentId: M:Adrenak.UniVoice.VoiceSettings.SetMute(System.Int32,System.Boolean)
+  fullName: Adrenak.UniVoice.VoiceSettings.SetMute(System.Int32, System.Boolean)
+  nameWithType: VoiceSettings.SetMute(Int32, Boolean)
+- uid: Adrenak.UniVoice.VoiceSettings.SetMute*
+  name: SetMute
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_SetMute_
+  commentId: Overload:Adrenak.UniVoice.VoiceSettings.SetMute
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.VoiceSettings.SetMute
+  nameWithType: VoiceSettings.SetMute
+- uid: Adrenak.UniVoice.VoiceSettings.SetMutedTag(System.String,System.Boolean)
+  name: SetMutedTag(String, Boolean)
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_SetMutedTag_System_String_System_Boolean_
+  commentId: M:Adrenak.UniVoice.VoiceSettings.SetMutedTag(System.String,System.Boolean)
+  fullName: Adrenak.UniVoice.VoiceSettings.SetMutedTag(System.String, System.Boolean)
+  nameWithType: VoiceSettings.SetMutedTag(String, Boolean)
+- uid: Adrenak.UniVoice.VoiceSettings.SetMutedTag*
+  name: SetMutedTag
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_SetMutedTag_
+  commentId: Overload:Adrenak.UniVoice.VoiceSettings.SetMutedTag
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.VoiceSettings.SetMutedTag
+  nameWithType: VoiceSettings.SetMutedTag
+- uid: Adrenak.UniVoice.VoiceSettings.SetMyTag(System.String,System.Boolean)
+  name: SetMyTag(String, Boolean)
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_SetMyTag_System_String_System_Boolean_
+  commentId: M:Adrenak.UniVoice.VoiceSettings.SetMyTag(System.String,System.Boolean)
+  fullName: Adrenak.UniVoice.VoiceSettings.SetMyTag(System.String, System.Boolean)
+  nameWithType: VoiceSettings.SetMyTag(String, Boolean)
+- uid: Adrenak.UniVoice.VoiceSettings.SetMyTag*
+  name: SetMyTag
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_SetMyTag_
+  commentId: Overload:Adrenak.UniVoice.VoiceSettings.SetMyTag
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.VoiceSettings.SetMyTag
+  nameWithType: VoiceSettings.SetMyTag
+- uid: Adrenak.UniVoice.VoiceSettings.ToString
+  name: ToString()
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_ToString
+  commentId: M:Adrenak.UniVoice.VoiceSettings.ToString
+  fullName: Adrenak.UniVoice.VoiceSettings.ToString()
+  nameWithType: VoiceSettings.ToString()
+- uid: Adrenak.UniVoice.VoiceSettings.ToString*
+  name: ToString
+  href: api/Adrenak.UniVoice.VoiceSettings.html#Adrenak_UniVoice_VoiceSettings_ToString_
+  commentId: Overload:Adrenak.UniVoice.VoiceSettings.ToString
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.VoiceSettings.ToString
+  nameWithType: VoiceSettings.ToString
+- uid: Adrenak.UniVoice.WavFileWriter
+  name: WavFileWriter
+  href: api/Adrenak.UniVoice.WavFileWriter.html
+  commentId: T:Adrenak.UniVoice.WavFileWriter
+  fullName: Adrenak.UniVoice.WavFileWriter
+  nameWithType: WavFileWriter
+- uid: Adrenak.UniVoice.WavFileWriter.#ctor(System.String)
+  name: WavFileWriter(String)
+  href: api/Adrenak.UniVoice.WavFileWriter.html#Adrenak_UniVoice_WavFileWriter__ctor_System_String_
+  commentId: M:Adrenak.UniVoice.WavFileWriter.#ctor(System.String)
+  fullName: Adrenak.UniVoice.WavFileWriter.WavFileWriter(System.String)
+  nameWithType: WavFileWriter.WavFileWriter(String)
+- uid: Adrenak.UniVoice.WavFileWriter.#ctor*
+  name: WavFileWriter
+  href: api/Adrenak.UniVoice.WavFileWriter.html#Adrenak_UniVoice_WavFileWriter__ctor_
+  commentId: Overload:Adrenak.UniVoice.WavFileWriter.#ctor
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.WavFileWriter.WavFileWriter
+  nameWithType: WavFileWriter.WavFileWriter
+- uid: Adrenak.UniVoice.WavFileWriter.Dispose
+  name: Dispose()
+  href: api/Adrenak.UniVoice.WavFileWriter.html#Adrenak_UniVoice_WavFileWriter_Dispose
+  commentId: M:Adrenak.UniVoice.WavFileWriter.Dispose
+  fullName: Adrenak.UniVoice.WavFileWriter.Dispose()
+  nameWithType: WavFileWriter.Dispose()
+- uid: Adrenak.UniVoice.WavFileWriter.Dispose*
+  name: Dispose
+  href: api/Adrenak.UniVoice.WavFileWriter.html#Adrenak_UniVoice_WavFileWriter_Dispose_
+  commentId: Overload:Adrenak.UniVoice.WavFileWriter.Dispose
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.WavFileWriter.Dispose
+  nameWithType: WavFileWriter.Dispose
+- uid: Adrenak.UniVoice.WavFileWriter.Write(System.Int32,System.Int32,System.Single[])
+  name: Write(Int32, Int32, Single[])
+  href: api/Adrenak.UniVoice.WavFileWriter.html#Adrenak_UniVoice_WavFileWriter_Write_System_Int32_System_Int32_System_Single___
+  commentId: M:Adrenak.UniVoice.WavFileWriter.Write(System.Int32,System.Int32,System.Single[])
+  name.vb: Write(Int32, Int32, Single())
+  fullName: Adrenak.UniVoice.WavFileWriter.Write(System.Int32, System.Int32, System.Single[])
+  fullName.vb: Adrenak.UniVoice.WavFileWriter.Write(System.Int32, System.Int32, System.Single())
+  nameWithType: WavFileWriter.Write(Int32, Int32, Single[])
+  nameWithType.vb: WavFileWriter.Write(Int32, Int32, Single())
+- uid: Adrenak.UniVoice.WavFileWriter.Write*
+  name: Write
+  href: api/Adrenak.UniVoice.WavFileWriter.html#Adrenak_UniVoice_WavFileWriter_Write_
+  commentId: Overload:Adrenak.UniVoice.WavFileWriter.Write
+  isSpec: "True"
+  fullName: Adrenak.UniVoice.WavFileWriter.Write
+  nameWithType: WavFileWriter.Write
